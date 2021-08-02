@@ -1,0 +1,276 @@
+:root {
+  --color-background : white;
+  --color-text : black;
+  --color-link : hsla(211, 100%, 37%, 1);
+  --color-link-hover : hsla(211, 100%, 44%, 1);
+  --color-link-active : hsla(211, 100%, 34%, 1);
+  --color-link-visited : hsla(296, 100%, 30%, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+      --color-background : black;
+      --color-text : white;
+      --color-link : hsla(211, 100%, 37%, 1);
+      --color-link-hover : hsla(211, 100%, 44%, 1);
+      --color-link-active : hsla(211, 100%, 34%, 1);
+      --color-link-visited : hsla(296, 100%, 30%, 1);
+    }
+}
+
+
+
+/* A11Y */
+.a11y-navigation{
+  position: fixed;
+  z-index: 100;
+  top: 1em;
+  left: 1em;
+}
+.a11y-navigation ul li{
+  list-style: none;
+}
+.sr-only{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
+.sr-show-on-focus:focus{
+  z-index: 20;
+  width: auto;
+  min-width: 10em;
+  height: auto;
+  clip: auto;
+  background-color: #000;
+  padding: 0.4em 1em;
+  color: #fff;
+}
+
+
+html{
+  font-size: 110%;
+}
+
+/* Prevent animation library to hide data for javascript disabled https://github.com/michalsnik/aos/issues/541 */
+html.no-js [data-aos] {
+  opacity: 1;
+  transform: none;
+}
+
+body{
+  background-color: var(--color-background);
+  color: var(--color-text);
+  font-family: 'avenir next', avenir, 'helvetica neue', -apple-system,ubuntu,roboto,noto,segoe ui,arial,sans-serif;
+  font-size: calc(1em + 0.5vw);
+  font-size: clamp(1em,calc(1em + 1vw),24px);
+  margin: 0;
+  padding:0;
+}
+
+main{
+  position: relative;
+  z-index: 80;
+  max-width: 50em;
+  margin: auto;
+}
+
+@supports (display: grid) and (not (-ms-ime-align: auto)) {
+	main{
+	 max-width: none;	
+	}
+  .container{
+	display: grid;
+	width: 100%;
+	max-width: 100%;
+	grid-template-columns:
+	[full-start] minmax(1em, 1fr)
+	[main-start] minmax(0, 50em) [main-end]
+	minmax(1em, 1fr) [full-end];
+  }
+  .container>*{
+	grid-column: main;
+  }
+  .container-main{
+	grid-column: main;
+  }
+  .container-full{
+	grid-column:full;
+  }
+}
+
+img{
+  max-width: 100%;
+}
+
+a{
+  color: var(--color-link);
+  text-decoration-skip-ink: auto;
+  text-decoration: currentcolor underline;
+}
+a:hover{
+  color: var(--color-link-hover);
+}
+a:active{
+  color: var(--color-link-active);
+}
+a:visited{
+  color: var(--color-link-visited);
+}
+
+a.button{
+  background-color: var(--color-link);
+  color: var(--color-background);
+  border-radius: 0.5em;
+  display: inline-block;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+  /* faire clignoter :-) */
+}
+a.button:hover{
+  background-color: var(--color-link-hover);
+}
+a.button:active{
+  background-color: var(--color-link-active);
+}
+a.button:visited{
+  background-color: var(--color-link-visited);
+}
+
+#logo-laliberte{
+  display: block;
+  border-radius: 100%;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+#logo-laliberte span{
+  font-size: calc(1.2em + 1vw);
+  font-size: clamp(1.6em,calc(1.2em + 1vw),60px);
+  padding: 0 0.5em;
+}
+
+header nav ul{
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex-wrap: wrap;
+  margin: 0;
+  margin-top: 1vh;
+  line-height: 1em;
+}
+header nav li {
+  list-style: none;
+}
+header nav a{
+  display: block;
+  padding: 0.5em 0.6em;
+  text-decoration: none;
+  transition: color 0.6s ease-in-out;
+}
+header nav a:hover{
+  text-decoration: underline;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 2vh;
+  margin-bottom: 5vh;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+@media (max-width: 800px) {
+  header nav ul{
+    margin: 2em 0;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  header nav a{
+    padding: 0.5em 0em;
+  }
+}
+
+/* Typography */
+h1, h2, h3, h4, h5{
+  word-wrap: break-word;
+}
+h1, .h1, .h-huge {
+  font-size: -webkit-calc(200% + 4vw);
+  font-size: clamp(1.8em,calc(2em + 4vw),100px);
+  line-height: 1.1em;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 0.4em;
+}
+h2, .h2 {
+  font-size: calc(1.2em + 1vw);
+  font-size: clamp(1.6em,calc(1.2em + 1vw),60px);
+  line-height: 1.3em;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+}
+.lead{
+  font-size: calc(1.2em + 1vw);
+  font-size: clamp(1.6em,calc(1.2em + 1vw),60px);
+  line-height: 1.3em;
+  font-weight: 600;
+}
+h3, .h3 {
+  font-size: calc(0.9em + 1vw);
+  font-size: -webkit-calc(90% + 1vw);
+  font-weight: normal;
+  line-height: 1.3em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h4, .h4 {
+  font-size: calc(0.8em + 1vw);
+  font-size: -webkit-calc(80% + 1vw);
+  font-weight: normal;
+  line-height: 1.3em;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+.center{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p, ul, ol, pre, table, blockquote {
+  line-height: 1.56em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+ul, ol{
+  margin-left: 1.4em;
+  padding-left: 0em;
+  margin-bottom: 1em;
+}
+ul li, ol li{
+  margin-bottom: 0.3em;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0.3em;
+  margin-bottom: 0px;
+}
+
+input, textarea, keygen, select, button{
+  font-size: 100%;
+}
+
+mark{
+  background-color: yellow;
+}
