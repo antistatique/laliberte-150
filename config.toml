@@ -2,3 +2,9 @@ baseURL = "http://150.laliberte.ch/"
 languageCode = "fr-ch"
 title = "La Liberté a 150 ans"
 theme = "laliberte"
+
+
+[markup]
+  [markup.goldmark]
+	[markup.goldmark.renderer]
+	  unsafe = true
