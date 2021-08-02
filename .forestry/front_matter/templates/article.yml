@@ -4,19 +4,27 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+- name: banner
+  type: file
+  config:
+    maxSize: 64
+  label: Banner
+  description: Image de couverture
 - type: datetime
   name: date
-  label: date
+  label: Date
 - type: text
   name: date_display
-  label: date_display
+  label: Date display
+  description: Date affichée
 - type: textarea
   name: summary
-  label: summary
-- type: text
-  name: banner
-  label: banner
+  label: Chapeau
 - type: list
   name: keywords
-  label: keywords
+  label: Mots clés
+- name: featured
+  type: boolean
+  label: Featured
+  description: Est-ce que l'article est plus important que les autres
