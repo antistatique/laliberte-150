@@ -1,14 +1,25 @@
 {{ define "main" }}
-
-
-	<div class="heading">
-		<h1>{{.Title}}</h1>
-		<!-- <img src="/{{.Params.banner}}" alt="" class="hero-image"> -->		
-	</div>
 	
 	
 	{{.Content}}
 	
+	
+	
+	{{ range where .Site.Pages "Section" "article" }}
+	<div class="timeline">
+		<article class="element">			
+			<a href="{{.Permalink}}">		
+				<h2>
+					{{ .Title }}	
+				</h2>
+		
+				{{ if .Params.date_display }}
+				  <span>{{ .Params.date_display }}</span>
+				{{ end }}
+			</a>
+		</article>
+	</div>
+	{{ end }}
 
 {{ end }}
 
