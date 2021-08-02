@@ -1,0 +1,51 @@
+{{ define "main" }}
+
+	<article class="detail-article">
+		
+		{{ if .Params.date_display }}
+		<h2>
+			{{ markdownify .Params.date_display }}
+		</h2>
+		{{ end }}
+		
+		<h1>
+			{{ .Title }}	
+		</h1>
+		
+		
+		{{ if .Params.summary }}
+		  <p class="lead">{{ markdownify .Params.summary }}</p>
+		{{ end }}
+	
+		{{ if .Params.banner }}
+		<img src="{{ .Params.banner }}" alt="{{ .Title }}" class="shadow" />
+		{{ end }}	
+		
+		<ul>	
+			{{ range $val := .Params.keywords }}
+				<li>{{ $val }}</li>
+			{{ end }}
+		</ul>
+		
+		<div class="article-content">			
+			{{ .Content }}
+		</div>
+		
+	</article>
+	
+	
+	<nav class="pagination">	
+		{{ if .PrevInSection }}
+		<a href="{{.PrevInSection.Permalink}}">
+			⬅︎
+			{{.PrevInSection.Title}}
+		</a>
+		{{ end }}
+		{{ if .NextInSection }}
+		<a href="{{.NextInSection.Permalink}}">
+			{{.NextInSection.Title}}
+			⮕
+		</a>
+		{{ end }}
+	</nav>
+{{ end }}
