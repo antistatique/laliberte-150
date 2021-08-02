@@ -1,0 +1,22 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: date_display
+  label: date_display
+- type: textarea
+  name: summary
+  label: summary
+- type: text
+  name: banner
+  label: banner
+- type: list
+  name: keywords
+  label: keywords
