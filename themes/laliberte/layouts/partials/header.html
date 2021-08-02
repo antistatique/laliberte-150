@@ -3,7 +3,7 @@
 <header>
 	<a href="/" id="logo-laliberte" data-aos="fade-down"
 	 data-aos-duration="300">
-		<img src="/images/laliberte.svg" alt="Logo de La Liberté">
+		<img src="/images/logo_laliberte.svg" alt="Logo de La Liberté">
 		<span>
 			La Liberté
 		</span>
@@ -14,23 +14,8 @@
 				<a class="sr-only sr-show-on-focus" accesskey="0" href="/" title="[Alt+0] Page d'accueil">Homepage</a>
 			</li>
 			<li>
-				<a class="sr-only sr-show-on-focus" accesskey="1" href="#menu" title="[Alt+1] Navigation dans le site">Navigation du site</a>
-			</li>
-			<li>
 				<a class="sr-only sr-show-on-focus" accesskey="2" href="#main" title="[Alt+2] Aller au contenu de la page">Aller au contenu</a>
 			</li>
-		</ul>
-	</nav>
-	<nav role="menubar" id="menu">
-		<ul data-aos="fade-down"
-		 data-aos-duration="200">
-			{{ with .Site.Menus.main }}
-			{{ range . }}
-			<li>
-				<a href="{{ .URL | relURL }}">{{ .Name }}</a>
-			</li>
-			{{ end }}
-			{{ end }}
 		</ul>
 	</nav>
 

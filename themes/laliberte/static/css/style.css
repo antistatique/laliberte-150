@@ -5,9 +5,10 @@
   --color-link-hover : hsla(211, 100%, 44%, 1);
   --color-link-active : hsla(211, 100%, 34%, 1);
   --color-link-visited : hsla(296, 100%, 30%, 1);
+  --color-brand: #e21a22;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
       --color-background : black;
       --color-text : white;
@@ -16,7 +17,7 @@
       --color-link-active : hsla(211, 100%, 34%, 1);
       --color-link-visited : hsla(296, 100%, 30%, 1);
     }
-}
+} */
 
 
 
@@ -142,20 +143,19 @@ a.button:visited{
   background-color: var(--color-link-visited);
 }
 
+#logo-laliberte img{
+  min-width: 40vw;
+}
 #logo-laliberte{
   display: block;
-  border-radius: 100%;
   text-decoration: none;
   display: flex;
   align-items: center;
   justify-content: flex-start;
 }
 #logo-laliberte span{
-  font-size: calc(1.2em + 1vw);
-  font-size: clamp(1.6em,calc(1.2em + 1vw),60px);
-  padding: 0 0.5em;
+  display: none;
 }
-
 header nav ul{
   display: flex;
   justify-content: center;
@@ -178,14 +178,16 @@ header nav a:hover{
   text-decoration: underline;
 }
 header{
+  background-color: var(--color-brand);
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   padding-top: 2vh;
+  padding-bottom: 2vh;
+  padding-left: 2rem;
+  padding-right: 2rem;
   margin-bottom: 5vh;
-  margin-left: 1em;
-  margin-right: 1em;
 }
 @media (max-width: 800px) {
   header nav ul{
@@ -273,4 +275,32 @@ input, textarea, keygen, select, button{
 
 mark{
   background-color: yellow;
+}
+
+
+/* Experiment */
+.element {
+  transform:
+  perspective(750px)
+  translate3d(0px, 0px, -250px)
+  rotateX(27deg)
+  scale(0.9, 0.9);
+  border-radius: 20px;
+  border: 5px solid #e6e6e6;
+  background-color: #e6e6e6;
+  box-shadow: 0 70px 40px -20px rgba(0, 0, 0, 0.2);
+  transition: 0.4s ease-in-out all;
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+  margin-bottom: -25%; 
+}
+.element:hover {
+transform: translate3d(0px, 0px, -250px);
+border: 5px solid #f6f6f6;
+  background-color: #f6f6f6;
+  margin-bottom: -18%; 
+}
+.element h1{
+  margin: 0;
 }
