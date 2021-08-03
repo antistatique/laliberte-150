@@ -5,21 +5,22 @@
 	
 	
 	
-	{{ range where .Site.Pages "Section" "article" }}
 	<div class="timeline">
+	{{ range where .Site.Pages "Section" "article" }}
+		{{ if .Params.date_display }}
 		<article class="element">			
 			<a href="{{.Permalink}}">		
 				<h2>
 					{{ .Title }}	
 				</h2>
-		
-				{{ if .Params.date_display }}
-				  <span>{{ .Params.date_display }}</span>
-				{{ end }}
+			  <span>{{ .Params.date_display }}</span>
 			</a>
 		</article>
-	</div>
+		{{ end }}
+	{{else}}
+		<p>Aucun article</p>	
 	{{ end }}
+	</div>
 
 {{ end }}
 

@@ -1,10 +1,10 @@
 :root {
   --color-background : white;
   --color-text : black;
-  --color-link : hsla(211, 100%, 37%, 1);
+  --color-link : #e21a22;
   --color-link-hover : hsla(211, 100%, 44%, 1);
-  --color-link-active : hsla(211, 100%, 34%, 1);
-  --color-link-visited : hsla(296, 100%, 30%, 1);
+  --color-link-active : #e21a22;
+  --color-link-visited : #e21a22;
   --color-brand: #e21a22;
 }
 
@@ -144,7 +144,8 @@ a.button:visited{
 }
 
 #logo-laliberte img{
-  min-width: 40vw;
+  width: 40vw;
+  max-width: 400px;
 }
 #logo-laliberte{
   display: block;
@@ -279,6 +280,12 @@ mark{
 
 
 /* Experiment */
+.timeline{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 .element {
   transform:
   perspective(750px)
@@ -293,13 +300,13 @@ mark{
   display: flex;
   justify-content: center;
   padding: 1em;
-  margin-bottom: -25%; 
+  margin-top: -2.5em; 
 }
 .element:hover {
 transform: translate3d(0px, 0px, -250px);
 border: 5px solid #f6f6f6;
   background-color: #f6f6f6;
-  margin-bottom: -18%; 
+  margin-top: -1.8em; 
 }
 .element h1{
   margin: 0;

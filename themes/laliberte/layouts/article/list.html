@@ -3,8 +3,8 @@
 		{{ with .Content }}<div>{{ . }}</div>{{ end }}
 	{{ end }}
 
-	{{ range .Data.Pages }}
 	<div class="timeline">
+	{{ range .Data.Pages }}
 		<article class="element">			
 			<a href="{{.Permalink}}">		
 				<h2>
@@ -16,7 +16,7 @@
 				{{ end }}
 			</a>
 		</article>
-	</div>
 	{{ end }}
+	</div>
 
 {{ end }}
