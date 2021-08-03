@@ -30,3 +30,4 @@ fields:
   description: Est-ce que l'article est plus important que les autres
 pages:
 - content/article/les-conquetes-de-la-liberte.md
+- content/article/test.md
