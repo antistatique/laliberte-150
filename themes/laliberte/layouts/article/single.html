@@ -20,11 +20,14 @@
 		
 		<aside class="detail-article-aside">
 			{{ if .Params.reading_time }}
-			  <p class="">{{ markdownify .Params.reading_time }}</p>
+			  <div class="detail-article-readingtime">
+				  <span class="timer"></span>
+				  <p class="eiko h3">{{ markdownify .Params.reading_time }}</p>
+			  </div>
 			{{ end }}
 			{{ if .Params.author }}
-			  <p class="">{{ markdownify .Params.author }}</p>
-			{{ end }}			
+			  <p class="brik">{{ markdownify .Params.author }}</p>
+			{{ end }}	
 		</aside>
 		
 		{{ if .Params.summary }}
@@ -46,28 +49,44 @@
 		
 		{{ if .Params.videos }}
 			<div class="detail-article-video">
-				<div id="vimeo-embed" style="background-image: url({{ .Params.videos_cover | relURL }}) ">
-					
+				<div id="js-vimeo-embed" style="background-image: url({{ .Params.videos_cover | relURL }}) " class="detail-article-video-frame">
+					<a href="https://vimeo.com/{{ .Params.videos}}" id="js-play-video-link" class="detail-article-video-play-button">
+						<span class="play-button">
+							<span class="play-button-triangle">
+							</span>
+						</span>
+						<span class="detail-article-video-play-label brik h3">
+							{{ $.Site.Params.videoActionLabel }}
+						</span>
+					</a>
 				</div>
 				
 				<script src="{{ "/js/vimeo.js" | relURL }}"></script>
 				
 				<script>
+					
+					// Vimeo video options
 					var options = {
 						id: {{ .Params.videos}},
-						width: 500,
-						responsive: true,
+						// width: 500,
 						title: false,
 						color: "E21B22"
 					};
-				
-					var player = new Vimeo.Player('vimeo-embed', options);
-				
-					player.setVolume(0);
-				
-					player.on('play', function() {
-						// console.log('played the video!');
-					});
+					
+					const vimeoFrame = document.querySelector('#js-vimeo-embed');
+					const playButton = document.querySelector('#js-play-video-link');
+					// If JS then play in the page
+					playButton.href="#play";
+				    playButton.addEventListener('click', playVimeo);
+					
+					function playVimeo(e) {
+						vimeoFrame.classList.toggle('video-show');
+						const player = new Vimeo.Player('js-vimeo-embed', options);
+						player.on('play', function() {});
+						e.preventDefault();
+					}
+					
+					
 				</script>
 			</div>
 		{{ end }}
