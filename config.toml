@@ -4,6 +4,7 @@ title = "La Liberté a 150 ans"
 theme = "laliberte"
 
 [params]
+  timelineTitle = "La timeline de la Liberté"
   circulateNavigationTitle = 'Poursuivre la lecture'
   aboutPageTitle = 'À propos'
   aboutPageSlug = 'a-propos'

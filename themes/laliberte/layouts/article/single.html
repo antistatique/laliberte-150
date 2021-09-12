@@ -2,6 +2,10 @@
 
 	<article class="detail-article">
 		
+		{{ if .Params.banner }}
+		<img src="{{ .Params.banner | relURL }}" alt="{{ .Title }}" class="detail-article-banner" />
+		{{ end }}	
+		
 		<div class="detail-article-title">	
 			<h1>
 				{{ if .Params.title_style }}
@@ -13,10 +17,6 @@
 				{{ end }}
 			</h1>
 		</div>
-		
-		{{ if .Params.banner }}
-		<img src="{{ .Params.banner | relURL }}" alt="{{ .Title }}" class="detail-article-banner" />
-		{{ end }}	
 		
 		<aside class="detail-article-aside">
 			{{ if .Params.reading_time }}
@@ -64,28 +64,31 @@
 				<script src="{{ "/js/vimeo.js" | relURL }}"></script>
 				
 				<script>
-					
-					// Vimeo video options
-					var options = {
-						id: {{ .Params.videos}},
-						// width: 500,
-						title: false,
-						color: "E21B22"
-					};
-					
-					const vimeoFrame = document.querySelector('#js-vimeo-embed');
-					const playButton = document.querySelector('#js-play-video-link');
-					// If JS then play in the page
-					playButton.href="#play";
-				    playButton.addEventListener('click', playVimeo);
-					
-					function playVimeo(e) {
-						vimeoFrame.classList.toggle('video-show');
-						const player = new Vimeo.Player('js-vimeo-embed', options);
-						player.on('play', function() {});
-						e.preventDefault();
-					}
-					
+					document.addEventListener("DOMContentLoaded", () => {
+						// coming from swup
+						
+						// Vimeo video options
+						var options = {
+							id: {{ .Params.videos}},
+							// width: 500,
+							title: false,
+							color: "E21B22"
+						};
+						
+						const vimeoFrame = document.querySelector('#js-vimeo-embed');
+						const playButton = document.querySelector('#js-play-video-link');
+						// If JS then play in the page
+						playButton.href="#play";
+					    playButton.addEventListener('click', playVimeo);
+						
+						function playVimeo(e) {
+							vimeoFrame.classList.toggle('video-show');
+							const player = new Vimeo.Player('js-vimeo-embed', options);
+							player.on('play', function() {});
+							e.preventDefault();
+						}
+						
+					});
 					
 				</script>
 			</div>
