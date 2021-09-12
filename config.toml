@@ -3,6 +3,10 @@ languageCode = "fr-ch"
 title = "La Liberté a 150 ans"
 theme = "laliberte"
 
+[params]
+  circulateNavigationTitle = 'Poursuivre la lecture'
+  aboutPageTitle = 'À propos'
+  aboutPageSlug = 'a-propos'
 
 [markup]
   [markup.goldmark]
