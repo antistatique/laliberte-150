@@ -21,13 +21,9 @@ fields:
 - type: textarea
   name: summary
   label: Chapeau
-- type: list
-  name: keywords
-  label: Mots clés
 - name: featured
   type: boolean
   label: Featured
   description: Est-ce que l'article est plus important que les autres
 pages:
 - content/article/les-conquetes-de-la-liberte.md
-- content/article/test.md
