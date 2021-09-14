@@ -36,9 +36,12 @@
 		{{ block "main" . }}{{ end }}
 	</main>
 	{{ partial "footer" . }}
-	<script>
+	<script data-swup-ignore-script>
 		const swup = new Swup({
-			plugins: [new SwupPreloadPlugin()],
+			plugins: [new SwupPreloadPlugin(), new SwupScriptsPlugin({
+				  head: true,
+				  body: true
+				})],
 			theme: [new SwupSlideTheme()]
 		});
 	</script>
@@ -67,15 +70,6 @@
 	}
 	
 
-/* 
-		.transition-fade {
-			  transition: 0.2s;
-			  opacity: 1;
-			}
-			
-			html.is-animating .transition-fade {
-			  opacity: 0;
-			} */
 	</style>
 </body>
 </html>
