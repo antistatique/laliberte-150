@@ -10,7 +10,7 @@
 	<link rel="author" href="{{ "humans.txt" | relURL }}" />
 	<!-- <link rel="manifest" href="/manifest.json"> -->
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-	{{ block "stylesheets" . }}{{ end }}
+	<link rel="stylesheet" href="{{ "css/fold.css" | relURL }}">
 	<script>
 		document.documentElement.className = document.documentElement.className.replace("no-js","js");
 	</script>
@@ -30,8 +30,8 @@
 	</script>
 
 	<script src="{{ "js/imagesLoaded.js" | relURL }}"></script>
-	<script src="{{ "/js/init.js" | relURL }}" data-swup-ignore-script></script>
-	<script src="{{ "/js/swup.js" | relURL }}" data-swup-ignore-script></script>
+	<script src="{{ "js/init.js" | relURL }}" data-swup-ignore-script></script>
+	<script src="{{ "js/swup.js" | relURL }}" data-swup-ignore-script></script>
 </head>
 <body>
 	{{ partial "header" . }}
@@ -39,7 +39,7 @@
 		{{ block "main" . }}{{ end }}
 	</main>
 	{{ partial "footer" . }}
-	<script data-swup-ignore-script>
+	<script>
 		const swup = new Swup({
 			plugins: [new SwupPreloadPlugin()],
 			theme: [new SwupSlideTheme()]
@@ -50,8 +50,7 @@
 		swup.on('contentReplaced', init);
 	</script>
 	<style>
-
-.swup-transition-main {
+	.swup-transition-main {
 	  opacity: 1;
 	  transition: opacity 0.3s, transform 0.4s;
 	  transform: translate3d(0, 0, 0);
@@ -72,8 +71,6 @@
 	  opacity: 0;
 	  transform: translate3d(0, -60px, 0);
 	}
-
-
 	</style>
 </body>
 </html>

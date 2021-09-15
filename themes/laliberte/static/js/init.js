@@ -1,8 +1,36 @@
 /** @see https://swup.js.org/getting-started/reloading-javascript **/
 function init (){
 
+  //Article
+  if (document.querySelector('#js-vimeo-embed')) {
+    document.querySelector('body').classList.remove('fixed-body');
+
+    const vimeoFrame = document.querySelector('#js-vimeo-embed');
+
+    const options = {
+      id: vimeoFrame.dataset.id,
+      // width: 500,
+      title: false,
+        color: "E21B22"
+    };
+
+    const playButton = document.querySelector('#js-play-video-link');
+    // If JS then play in the page
+    playButton.href="#play";
+    playButton.addEventListener('click', playVimeo);
+
+    function playVimeo(e) {
+      vimeoFrame.classList.toggle('video-show');
+      const player = new Vimeo.Player('js-vimeo-embed', options);
+      player.on('play', function() {});
+      e.preventDefault();
+    }
+  }
+
   //Homepage
   if (document.querySelector('#fold-effect')) {
+    document.querySelector('body').classList.add('fixed-body');
+
     const wrapper = document.getElementById("fold-effect");
     const folds = Array.from(document.getElementsByClassName("fold"));
     const baseContent = document.getElementById("base-content");
@@ -13,19 +41,18 @@ function init (){
       scroll: 0
     };
 
-    function lerp(current, target, speed = 0.1, limit = 0.001) {
-      let change = (target - current) * speed;
+    const lerp = (current, target, speed = 0.1, limit = 0.001) => {
+      const change = (target - current) * speed;
+
       if (Math.abs(change) < limit) {
-        change = target - current;
+        return target - current;
       }
+
       return change;
     }
 
-    let scaleFix = 0.992;
-
     class FoldedDom {
       constructor(wrapper, folds = null, scrollers = null) {
-        this.wrapper = wrapper;
         this.folds = folds;
         this.scrollers = [];
       }
@@ -40,7 +67,9 @@ function init (){
           const fold = folds[i];
           const copyContent = baseContent.cloneNode(true);
           copyContent.id = "";
+
           let scroller;
+
           if (createScrollers) {
             let sizeFixEle = document.createElement("div");
             sizeFixEle.classList.add("fold-size-fix");

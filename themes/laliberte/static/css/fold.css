@@ -1,4 +1,4 @@
-body{
+.fixed-body{
     overflow: hidden;
     user-select: none;
     cursor: grab;
