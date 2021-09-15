@@ -10,10 +10,11 @@
 	<link rel="author" href="{{ "humans.txt" | relURL }}" />
 	<!-- <link rel="manifest" href="/manifest.json"> -->
 	<link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+	{{ block "stylesheets" . }}{{ end }}
 	<script>
 		document.documentElement.className = document.documentElement.className.replace("no-js","js");
 	</script>
-	
+
 	<script>
 		// Register our service-worker
 		// if (navigator.serviceWorker) {
@@ -26,9 +27,11 @@
 		// 		}
 		// 	});
 		// }
-	</script>  
-	
-	<script src="{{ "/js/swup.js" | relURL }}" data-swup-ignore-script></script>  
+	</script>
+
+	<script src="{{ "js/imagesLoaded.js" | relURL }}"></script>
+	<script src="{{ "/js/init.js" | relURL }}" data-swup-ignore-script></script>
+	<script src="{{ "/js/swup.js" | relURL }}" data-swup-ignore-script></script>
 </head>
 <body>
 	{{ partial "header" . }}
@@ -38,12 +41,13 @@
 	{{ partial "footer" . }}
 	<script data-swup-ignore-script>
 		const swup = new Swup({
-			plugins: [new SwupPreloadPlugin(), new SwupScriptsPlugin({
-				  head: true,
-				  body: true
-				})],
+			plugins: [new SwupPreloadPlugin()],
 			theme: [new SwupSlideTheme()]
 		});
+
+		init();
+
+		swup.on('contentReplaced', init);
 	</script>
 	<style>
 
@@ -68,7 +72,7 @@
 	  opacity: 0;
 	  transform: translate3d(0, -60px, 0);
 	}
-	
+
 
 	</style>
 </body>
