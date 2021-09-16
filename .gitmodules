@@ -1,0 +1,3 @@
+[submodule "themes/laliberte"]
+	path = themes/laliberte
+	url = git@github.com:antistatique/laliberte-hugo-theme.git

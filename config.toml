@@ -1,7 +1,7 @@
 baseURL = "https://laliberte150.staging.antistatique.net/"
 languageCode = "fr-ch"
 title = "La Liberté a 150 ans"
-theme = "laliberte-hugo-theme"
+theme = "laliberte"
 
 [params]
   timelineTitle = "La timeline de la Liberté"
