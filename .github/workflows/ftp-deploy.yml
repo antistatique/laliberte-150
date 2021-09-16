@@ -1,4 +1,4 @@
-name: github pages
+name: Deploy Hugo Production
 
 on:
   push:
@@ -15,10 +15,19 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.80.0'
-          # extended: true
+          extended: true
 
       - name: Build
         run: hugo --minify
+
+      # - name: Deploy to Server
+      #   uses: easingthemes/ssh-deploy@v2.1.1
+      #   env:
+      #     SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      #     SOURCE: "public/"
+      #     REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+      #     REMOTE_USER: ${{ secrets.REMOTE_USER }}
+      #     TARGET: ${{ secrets.REMOTE_TARGET }}
 
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@3.0.0
