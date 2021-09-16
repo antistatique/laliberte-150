@@ -1,4 +1,4 @@
-baseURL = "https://laliberte150.staging.antistatique.net/"
+baseURL = "http://150.laliberte.ch/"
 languageCode = "fr-ch"
 title = "La Liberté a 150 ans"
 theme = "laliberte"
