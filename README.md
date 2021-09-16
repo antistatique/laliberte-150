@@ -31,8 +31,8 @@ $ git submodule init
 #### warning
 Don't commit the type change from the submodule folder !
 
-Consider using this
+Consider using this in your gitignore global
 ```
-git update-index --assume-unchanged themes/laliberte
+/themes/liberte
 ```
 
