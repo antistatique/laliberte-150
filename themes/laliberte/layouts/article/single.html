@@ -1,23 +1,23 @@
 {{ define "main" }}
 
 	<article class="detail-article">
-		
+
 		{{ if .Params.banner }}
 		<img src="{{ .Params.banner | relURL }}" alt="{{ .Title }}" class="detail-article-banner" />
-		{{ end }}	
-		
-		<div class="detail-article-title">	
+		{{ end }}
+
+		<div class="detail-article-title">
 			<h1>
 				{{ if .Params.title_style }}
 				 <span class="{{ .Params.title_style }}">
-				{{ end }}	 
-				{{ .Title }}	
+				{{ end }}
+				{{ .Title }}
 				{{ if .Params.title_style }}
 				 </span>
 				{{ end }}
 			</h1>
 		</div>
-		
+
 		<aside class="detail-article-aside">
 			{{ if .Params.reading_time }}
 			  <div class="detail-article-readingtime">
@@ -27,29 +27,29 @@
 			{{ end }}
 			{{ if .Params.author }}
 			  <p class="brik">{{ markdownify .Params.author }}</p>
-			{{ end }}	
+			{{ end }}
 		</aside>
-		
+
 		{{ if .Params.summary }}
 		  <p class="detail-article-lead lead formula">{{ markdownify .Params.summary }}</p>
 		{{ end }}
-	
-		
-		<div class="detail-article-content">			
+
+
+		<div class="detail-article-content">
 			{{ .Content }}
 		</div>
-		
+
 		{{ if .Params.images }}
-			<div class="detail-article-images">	
+			<div class="detail-article-images">
 			{{ range $val := .Params.images }}
 				<img src="{{ $val | relURL }}" class="detail-article-images-item" loading="lazy" />
-			{{ end }}					
+			{{ end }}
 			</div>
 		{{ end }}
-		
+
 		{{ if .Params.videos }}
 			<div class="detail-article-video">
-				<div id="js-vimeo-embed" style="background-image: url({{ .Params.videos_cover | relURL }}) " class="detail-article-video-frame">
+				<div id="js-vimeo-embed" style="background-image: url({{ .Params.videos_cover | relURL }}) " class="detail-article-video-frame" data-id="{{ .Params.videos}}">
 					<a href="https://vimeo.com/{{ .Params.videos}}" id="js-play-video-link" class="detail-article-video-play-button">
 						<span class="play-button">
 							<span class="play-button-triangle">
@@ -60,48 +60,19 @@
 						</span>
 					</a>
 				</div>
-				
+
 				<script src="{{ "/js/vimeo.js" | relURL }}"></script>
-				
-				<script>
-					document.addEventListener("DOMContentLoaded", () => {
-						// coming from swup
-						
-						// Vimeo video options
-						var options = {
-							id: {{ .Params.videos}},
-							// width: 500,
-							title: false,
-							color: "E21B22"
-						};
-						
-						const vimeoFrame = document.querySelector('#js-vimeo-embed');
-						const playButton = document.querySelector('#js-play-video-link');
-						// If JS then play in the page
-						playButton.href="#play";
-					    playButton.addEventListener('click', playVimeo);
-						
-						function playVimeo(e) {
-							vimeoFrame.classList.toggle('video-show');
-							const player = new Vimeo.Player('js-vimeo-embed', options);
-							player.on('play', function() {});
-							e.preventDefault();
-						}
-						
-					});
-					
-				</script>
 			</div>
 		{{ end }}
-		
+
 	</article>
-	
-	<div class="pagination-container">	
+
+	<div class="pagination-container">
 		<div class="pagination">
 			<h2 class="h3 formula">
 				{{ $.Site.Params.circulateNavigationTitle }}
 			</h2>
-			<nav>	
+			<nav>
 				{{ if .PrevInSection }}
 				<a href="{{.PrevInSection.Permalink}}" class="prev">
 					<h3 class="{{ .PrevInSection.Params.title_style }} pagination-title h2">

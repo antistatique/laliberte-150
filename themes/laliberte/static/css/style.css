@@ -101,7 +101,7 @@ html{
 
 /* Prevent animation library to hide data for javascript disabled */
 html.no-js{
-  
+
 }
 
 body{
@@ -137,7 +137,7 @@ main{
 
 @supports (display: grid) and (not (-ms-ime-align: auto)){
 	main{
-	 max-width: none;	
+	 max-width: none;
 	}
   .container{
 	display: grid;
@@ -234,7 +234,7 @@ header{
 }
 
 .nav-link{
-  text-decoration: none;  
+  text-decoration: none;
   display: inline-block;
   border: 1px solid var(--color-text);
   box-shadow: 1px 1px 1px #22222212, inset 1px 1px #22222212;
@@ -247,7 +247,7 @@ header{
 @media (prefers-color-scheme: dark){
   .nav-link{
     border: 0;
-    background-color: var(--color-text);  
+    background-color: var(--color-text);
   }
 }
 
@@ -390,7 +390,7 @@ mark{
       }
     }
   }
-  
+
   /* mobile specific */
   @media screen and (max-width: 800px){
     .detail-article{
@@ -400,17 +400,17 @@ mark{
       margin-bottom: calc(var(--berry-unit)*3);
     }
     .detail-article-banner{
-      margin-bottom: calc(var(--berry-unit)*-12);  
+      margin-bottom: calc(var(--berry-unit)*-12);
     }
     .detail-article-title{
       position: relative;
       margin-left: 2em;
     }
     .detail-article-aside{
-      margin-top: 1rem;  
+      margin-top: 1rem;
     }
   }
-  
+
   /* common */
   .detail-article-banner{
     object-fit: cover;
@@ -439,8 +439,8 @@ mark{
     width: 50%;
     height: auto;
   }
-  
-  
+
+
   .detail-article-readingtime{
     display: flex;
     justify-content: flex-end;
@@ -451,8 +451,8 @@ mark{
   }
   .detail-article-video-frame{
     /* TODO fix aspect ratio for not supporting aspect-ratio */
-    aspect-ratio: 16 / 9; 
-    background-size: cover; 
+    aspect-ratio: 16 / 9;
+    background-size: cover;
     display: flex;
   }
   .video-show .detail-article-video-play-button{
@@ -481,7 +481,7 @@ mark{
   .detail-article-video-play-button:hover .play-button-triangle{
     transform: rotate(360deg);
   }
-  
+
 /* Play Button  */
 .play-button{
   display: flex;
@@ -512,9 +512,9 @@ mark{
       display: grid;
       grid-template-columns:
         [banner-start] minmax(calc(var(--berry-unit)*3), 1fr) [container-start]
-        minmax(200px, 30vw) 
+        minmax(200px, 30vw)
         4vw [banner-end]
-        8vw 
+        8vw
         [main-start] minmax(18rem, 24rem) [main-end]
         8rem [container-end]
         minmax(calc(var(--berry-unit)*3), 1fr);
@@ -527,18 +527,18 @@ mark{
       grid-area: container;
     }
   }
-  
+
   @media screen and (max-width: 800px){
     .pagination-container{
       grid-template-columns: calc(var(--berry-unit)*3) [container-start] auto [container-end] calc(var(--berry-unit)*3);
     }
   }
-  
+
   .pagination{
     text-align: center;
   }
   .pagination h2{
-    text-align: center; 
+    text-align: center;
     border-top: 2px solid var(--color-text);
     margin: calc(var(--berry-unit)*6) 0 calc(var(--berry-unit)*3);
     padding: 2em;
@@ -577,7 +577,7 @@ mark{
     position: relative;
     width: calc(var(--berry-unit)*18);
     height: calc(var(--berry-unit)*18);
-    object-fit: cover; 
+    object-fit: cover;
     filter: grayscale(1);
   }
   .pagination nav a.prev .arrow{
@@ -589,7 +589,7 @@ mark{
   }
   .pagination nav a.prev img{
     margin: -1px 0 -1px 0;
-    border-right: var(--berry-unit) solid var(--color-background); 
+    border-right: var(--berry-unit) solid var(--color-background);
   }
   .pagination nav a.next .arrow{
     left: 0;
@@ -616,7 +616,7 @@ mark{
     margin-left: calc(var(--berry-unit)*2);
   }
   .pagination nav a.prev:hover .arrow{
-    margin-right: calc(var(--berry-unit)*2);  
+    margin-right: calc(var(--berry-unit)*2);
   }
   /* desktop specific */
   @media screen and (min-width: 800px) {
@@ -637,7 +637,7 @@ mark{
       right: calc(var(--berry-unit)*15);
     }
     .pagination nav a.prev img{
-      border-left: var(--berry-unit) solid var(--color-background); 
+      border-left: var(--berry-unit) solid var(--color-background);
       border-right: none;
     }
     .pagination nav a.next .arrow{
@@ -647,7 +647,7 @@ mark{
       align-items: center;
     }
     .pagination nav a.next img{
-      border-right: var(--berry-unit) solid var(--color-background); 
+      border-right: var(--berry-unit) solid var(--color-background);
       border-left: none;
     }
   }
