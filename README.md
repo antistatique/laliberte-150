@@ -11,29 +11,20 @@ $ brew install hugo
 
 ### Working locally
 
-Clone the theme on a sibling folder
-```
-$ cd ..
-$ git clone git@github.com:antistatique/laliberte-hugo-theme.git
-$ cd laliberte-150
-```
-
-On this repository if you work on the theme
-```
-$ ln -s ../laliberte-hugo-theme ./themes/laliberte
-```
-
-On this repository if you install it just to try (not updating the theme)
+The theme is a submodule
 ```
 $ git submodule init
+$ git submodule update
 ```
 
 #### warning
-Don't commit the type change from the submodule folder !
+When working on the theme, you must first commit theme changes then commit new commit ref to the submodule
 
-Consider using this in your gitignore global
 ```
-/themes/liberte
+$ cd themes/liberte
+$ git add, commit, push
+$ cd ../..
+$ git add, commit, push
 ```
 
 
