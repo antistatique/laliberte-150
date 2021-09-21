@@ -1,4 +1,5 @@
 +++
+cover = ""
 banner = "images/doris_cover.png"
 date = 2021-08-02T09:15:38Z
 date_display = "l'an 2000"

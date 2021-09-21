@@ -1,4 +1,5 @@
 +++
+cover = ""
 banner = "images/doris_archive_1.png"
 date = 1871-10-01T23:39:21Z
 date_display = "1er octobre 1871"

@@ -1,4 +1,5 @@
 +++
+cover = ""
 banner = "images/python.png"
 date = 1950-02-28T23:00:00Z
 date_display = "Mars 1950"

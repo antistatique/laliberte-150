@@ -1,5 +1,6 @@
 +++
 author = "JER"
+cover = ""
 banner = "images/doris_cover.png"
 date = 1950-02-28T23:00:00Z
 date_display = "Mars 1950"
@@ -9,8 +10,8 @@ reading_time = "3 min"
 summary = "Doris, est à quelques mois de la retraite et elle veille sur les archives photos de La Liberté depuis plus de vingt ans"
 title = "La gardienne de la mémoire"
 title_style = "eiko"
-videos = "601807350"
-videos_cover = "images/doris_video_1.png"
+videos = ""
+videos_cover = ""
 
 +++
 À force, Doris Meylan avoue avoir développé une mémoire visuelle d’une efficacité redoutable. Comment pourrait-il en être autrement? La Fribourgeoise de 63 ans, qui n’est plus qu’à quelques mois de la retraite, veille sur les archives photos de La Liberté depuis vingt ans.

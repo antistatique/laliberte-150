@@ -9,6 +9,8 @@ theme = "laliberte"
   aboutPageTitle = 'À propos'
   aboutPageSlug = 'a-propos'
   videoActionLabel = 'Voir le reportage'
+  footerRight = "Tous droits réservés"
+  Plausible = '150.lalib.ch'
 
 [markup]
   [markup.goldmark]
