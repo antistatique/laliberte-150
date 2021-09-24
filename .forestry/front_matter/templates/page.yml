@@ -1,0 +1,20 @@
+---
+label: page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Titre
+- type: text
+  name: title_style
+  label: Typographie du titre
+  description: formula, eiko, brik
+- type: textarea
+  name: summary
+  label: Chapeau
+- type: file
+  name: cover
+  label: Image principale pour la timeline et le partage sur les réseaux sociaux
+  description: "<strong>Taille </strong><br>Largeur 800px<br>Hauteur 455px"
+pages:
+- content/a-propos.md
