@@ -13,7 +13,7 @@ order = 1
 reading_time = "3 min"
 summary = ""
 title = "Soeur Agnès: «La Liberté,  c’est nos racines»"
-title_style = "formula"
+title_style = "eiko"
 videos = ""
 videos_cover = ""
 
