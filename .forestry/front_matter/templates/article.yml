@@ -60,4 +60,3 @@ fields:
   name: videos_cover
   label: 'Vidéo : Cover image vidéo'
   description: "<strong>Taille</strong> <br>Largeur 800px<br>Hauteur 455px"
-pages:
