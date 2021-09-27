@@ -32,6 +32,10 @@ fields:
   name: banner_thumb
   label: Image principale Vignette
   description: "<strong>Taille </strong><br>Largeur 200px<br>Hauteur 275px"
+- type: boolean
+  name: landscape_banner
+  label: L'image principale est-elle au format paysage ?
+  default: false
 - type: datetime
   name: date
   label: Date
