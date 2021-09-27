@@ -60,3 +60,8 @@ fields:
   name: videos_cover
   label: 'Vidéo : Cover image vidéo'
   description: "<strong>Taille</strong> <br>Largeur 800px<br>Hauteur 455px"
+pages:
+- content/article/debuts-difficiles-et-conflits-sociaux.md
+- content/article/la-mecanique-du-coeur.md
+- content/article/le-reflet-de-l-identite-fribourgeoise.md
+- content/article/soeur-agnes-la-liberte-c-est-nos-racines.md
