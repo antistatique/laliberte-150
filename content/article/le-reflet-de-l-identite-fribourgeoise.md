@@ -1,14 +1,15 @@
 +++
 author = "François Mauron"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/python_600.jpg"
+banner_hd = "/images/python_1700.jpg"
+banner_thumb = "/images/python_200.jpg"
+cover = "/images/python_1200.jpg"
 date = ""
 date_display = ""
 draft = true
 featured = false
 images = []
+landscape_banner = false
 order = 1
 reading_time = "3 min"
 summary = "Selon l’historien Francis Python, l’évolution de La Liberté va de pair avec celle du canton de Fribourg"
