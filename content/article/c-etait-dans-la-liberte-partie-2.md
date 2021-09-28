@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Pascal Fleury, François Mauron, Camille Besse"
 banner = ""
 banner_hd = ""
 banner_thumb = ""

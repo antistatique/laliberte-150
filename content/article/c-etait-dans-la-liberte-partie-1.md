@@ -1,5 +1,5 @@
 +++
-author = "Aurélie Lebreau,"
+author = "Aurélie Lebreau, François Mauron, Sevan Pearson"
 banner = ""
 banner_hd = ""
 banner_thumb = ""
