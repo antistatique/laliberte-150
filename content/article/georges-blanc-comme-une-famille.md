@@ -1,14 +1,15 @@
 +++
 author = "Patricia Morand"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/blanc_600.jpg"
+banner_hd = "/images/blanc_1700.jpg"
+banner_thumb = "/images/blanc_200.jpg"
+cover = "/images/blanc_1200.jpg"
 date = ""
 date_display = ""
 draft = true
 featured = false
 images = []
+landscape_banner = false
 order = 1
 reading_time = "3 min"
 summary = "Sorti de la première volée de l’Institut de journalisme de l’Uni de Fribourg en 1968, Georges Blanc a participé au développement de la rédaction et des rubriques jusqu’en 2010. Le Gruérien évoque un état d’esprit"
