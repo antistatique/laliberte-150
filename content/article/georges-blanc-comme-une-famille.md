@@ -23,11 +23,11 @@ Chez lui à Hauteville, Georges Blanc coule une retraite – prise de façon ant
 
 **Comment avez-vous atterri à _La Liberté_?**
 
-**Georges Blanc**: J’ai commencé en avril 1968. J’ai étudié les lettres à l’uni, faculté dans laquelle un Institut de journalisme avait été créé. Roger Pochon (éditeur-rédacteur en chef du quotidien local, ndlr), Pierre Barras (rédacteur) et Hugo Baeriswyl (directeur) faisaient partie des enseignants. Afin de valider mes études, je devais effectuer un stage de trois semaines dans un journal. Je l’ai logiquement fait à _La Liberté_.
+**Georges Blanc**: J’ai commencé en avril 1968. J’ai étudié les lettres à l’uni, faculté dans laquelle un Institut de journalisme avait été créé. Roger Pochon (éditeur-rédacteur en chef, ndlr), Pierre Barras (rédacteur) et Hugo Baeriswyl (directeur) faisaient partie des enseignants. Afin de valider mes études, je devais effectuer un stage de trois semaines dans un journal. Je l’ai logiquement fait à _La Liberté_.
 
 **Quelles ont été vos premières tâches pour le journal?**
 
-Quand j’ai commencé, il y avait peu de monde à la rédaction: Roger Pochon, Edouard Collomb (premier rédacteur, ndlr), un journaliste pour l’Etrangère, Jean-Marie Brasey pour la Régionale, l’abbé Menoud rédacteur ecclésiastique, Madeleine Butignot pour le Magazine et une secrétaire. Dans le local, tous les bureaux étaient alignés. Ma place était en bout de ligne. On me donnait du boulot. J’ai commencé par dresser les listes de convois funèbres (ils sont quelques-uns, les anciens, à avoir un parcours similaire, ndlr). Il y avait encore Ferdinand Brunisholz, qui était en charge de la mise en pages. C’est lui qui m’a le plus encouragé.
+Quand j’ai commencé, il y avait peu de monde à la rédaction: Roger Pochon, Edouard Collomb (premier rédacteur, ndlr), un journaliste pour l’Etrangère, Jean-Marie Brasey pour la Régionale, l’abbé Menoud rédacteur ecclésiastique, Madeleine Butignot pour le Magazine et une secrétaire. Dans le local, tous les bureaux étaient alignés. Ma place était en bout de ligne. On me donnait du boulot. J’ai commencé par dresser les listes de convois funèbres (ils sont quelques-uns, les anciens, à avoir un parcours similaire, ndlr). Il y avait encore Ferdinand Brunisholz, qui était en charge de la mise en page. C’est lui qui m’a le plus encouragé.
 
 **Encouragé**?
 
