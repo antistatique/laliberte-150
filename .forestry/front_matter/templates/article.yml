@@ -65,6 +65,7 @@ fields:
   label: 'Vidéo : Cover image vidéo'
   description: "<strong>Taille</strong> <br>Largeur 800px<br>Hauteur 455px"
 pages:
+- content/article/150-ans-de-litterature-en-liberte.md
 - content/article/c-etait-dans-la-liberte-partie-1.md
 - content/article/c-etait-dans-la-liberte-partie-2.md
 - content/article/c-etait-dans-la-liberte-partie-3.md
