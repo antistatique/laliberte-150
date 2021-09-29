@@ -31,6 +31,8 @@ En cette fin du XIXe siècle, la France est donc efficace et unanime derrière 
 
 «Des coups de latte, un baiser», comme le chantait Bashung, tel pourrait être le résumé de l’hommage que _La Liberté_ rendit à Hugo. Car aux maigres compliments littéraires, le titre fribourgeois assortit de dures critiques, souvent moralisatrices, sur les choix politiques, certes changeants, de l’homme, sur son mode de vie, non dénué de maîtresses il est vrai, et surtout sur l’absence de prêtre auprès de lui alors qu’il se trouvait sur son lit de mort. «Dans l’histoire des lettres françaises, Victor Hugo ne sera qu’un écrivain de décadence», assène _La Liberté_. Homme orgueilleux, manquant de goût et égoïste: le vitriol ne manquait pas à Fribourg… Assurément une telle nécrologie – un bijou pour les lecteurs de 2021 – ne pourrait plus être publiée aujourd’hui.
 
+***
+
 #### 1912: Le naufrage du Titanic
 
 «La catastrophe s’est produite par 41°46 de latitude nord et 50°14 de longitude ouest, dimanche, à 10h25 du soir (heure de New York), environ 3h du matin (heure de l’Europe centrale).» Ainsi débute l’article de _La Liberté_ du mercredi 17 avril 1912 rapportant le naufrage du Titanic. L’accident fait l’objet de la Une du journal et est relaté dans un très long texte, découpé en plusieurs sections qui abordent des thèmes différents.
@@ -45,6 +47,8 @@ Vient ensuite le bilan: 1432 morts et 868 personnes sauvées. A l’heure actuel
 
 Un peu plus loin apparaît un descriptif très détaillé du paquebot. Cela n’est en soi pas très surprenant: à cette époque, _La Liberté_ n’était pas illustrée et la télévision n’existait pas. Donner beaucoup de détails permettait donc aux lecteurs de se construire une image aussi précise que possible de la réalité.
 
+***
+
 #### 1919: Election de Musy au Conseil fédéral
 
 Pour l'une des toutes premières fois dans l’histoire du journal, un article rédactionnel est illustré par une photo. Dans la presse, de manière générale, c’est très rare en ce début de XXe siècle. Mais ce 11 décembre 1919, dans une seconde édition qui paraît le jour même de l’élection, _La Liberté_ marque le coup pour l’accession du premier Fribourgeois au Conseil fédéral. Un texte en page Une, sobrement intitulé «M. Musy conseiller fédéral», accompagné par un portrait du politicien, relate ces heures historiques pour le canton. S’il est précédé d’un autre sujet évoquant «la grande indécision au sujet de la Russie», l’article, qui n’est pas signé – c’est presque toujours le cas à cette époque – occupe trois pleines colonnes et déborde sur la deuxième page.
@@ -52,6 +56,8 @@ Pour l'une des toutes premières fois dans l’histoire du journal, un article r
 Le texte, curieusement, ne parle pas de l’élection proprement dite qui s’est déroulée aux Chambres fédérales et ne donne même pas le résultat du scrutin. Il s’agit plutôt d’un long rappel de la carrière de Jean-Marie Musy, mise en perspective dans le contexte politique de l’époque. Ainsi, relate le rédacteur, «le bruit circulait» que M. Musy «pourrait être élu» au Conseil fédéral. «Mais le tour de Fribourg d’avoir un représentant dans l’Autorité exécutive avait été tant de fois prétérité par le jeu des circonstances, ou par la malignité des hommes, que l’opinion restait, chez nous, un peu sceptique sur les chances que nous avions de fournir enfin un conseiller fédéral», souligne-t-il.
 
 L’article explique ensuite que le bouleversement de la Première Guerre mondiale a forcé les vieux partis traditionnels à «s’orienter vers des forces nouvelles». Il fallait des êtres d’intelligence, à poigne, susceptibles notamment de s’opposer au bolchevisme. «La Confédération en est à rechercher des hommes d’élite, ardents et clairvoyants, pour renforcer son Conseil suprême. Or, parmi ceux qui ont attiré le plus l’attention de l’opinion publique, notre concitoyen, M. Jean Musy, se trouvait au premier rang», souligne _La Liberté_. Qui se réjouit de la belle revanche que constitue pour le canton de Fribourg l’élection du Gruérien au Conseil fédéral.
+
+***
 
 #### 1940: L’invasion de la France
 
