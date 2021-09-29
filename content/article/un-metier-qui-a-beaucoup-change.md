@@ -9,6 +9,7 @@ date_display = ""
 draft = true
 featured = false
 images = []
+landscape_banner = false
 order = 1
 reading_time = "3 min"
 summary = "Rencontre avec André Streuli, un typographe qui a vécu le passage du plomb à la photocomposition. L’évolution technologique a nécessité l’adaptation rapide d’une profession"
@@ -43,7 +44,16 @@ A _La Liberté_, il a travaillé durant 31ans pour le service de nuit. «Je comm
 
 Il se souvient très clairement de la date de la dernière ligne de plomb composée avec la Linotype à Saint-Paul: «C’était le 1er mai 1981. On est ensuite passé à la photocomposition.» Le plomb a ainsi disparu de tout le processus de mise en page pour laisser place aux machines à écrire spéciales qui imprimaient sur des films photos. Les ciseaux et la colle faisaient aussi partie des outils. Les films étaient ensuite découpés et assemblés pour former les maquettes des pages. S’il manquait un mot, ou si un paragraphe devait être ajouté, on découpait le texte aux ciseaux, on intégrait le passage manquant que l’on collait. C’est bien de là que vient l’expression «couper» et «coller», que l’on retrouve encore dans les traitements de texte aujourd’hui.
 
-#### **5000**  
+#### **5000**
+
 signes alignés à l'heure sur les Linotypes, pour les plus rapides
 
 «Ce qui a fondamentalement changé, c’est le rythme de production», commente André Streuli. L’évolution technologique a permis à chaque employé d’augmenter le volume de texte traité. «Alors qu’avec le montage du plomb à la main, les plus rapides alignaient 5000 signes à l’heure, avec une Linotype c’était plutôt autour des 12'000 signes, et avec la photocomposition, on arrivait à un peu plus de 20'000 signes à l’heure», compare André Streuli.
+
+***
+
+### La grève de 1994
+
+Malgré l’évolution technologique, la branche de l’imprimerie et les métiers des arts graphiques ont connu une période compliquée dans les années nonante. «Les conditions de travail n’ont pas toujours été faciles», explique André Streuli. Membre de la section fribourgeoise du Syndicat du livre et du papier (SLP), il était percepteur pour l’Imprimerie Saint-Paul. C’est donc lui qui s’occupait d’encaisser les cotisations auprès des ouvriers syndiqués. Il rappelle la journée de grève du 3 novembre 1994: les ouvriers du secteur ont stoppé leur activité dans plusieurs villes de Suisse, dont Fribourg. «Mais nous avons levé la grève à 20h.»
+
+_La Liberté_ a tout de même pu sortir le lendemain, mais avec une pagination réduite. Selon une publication du SLP consacrée à cette grève, durant la décennie qui a précédé cet événement, de nombreuses entreprises de la branche ont fait faillite, les salaires et les bénéfices ont diminué. A la fin 1993, la perte de plus de 10'000 places de travail était déplorée par les syndicats. Et au moment d’entamer les négociations pour une nouvelle CCT au début 1994, le ton des employeurs s’est durci, demandant toujours davantage de concessions aux employés. La grève a finalement été perçue par les syndicats comme le seul moyen de pression efficace sur le patronat
