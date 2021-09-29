@@ -31,6 +31,8 @@ Le nombre de soeurs membres de l'Oeuvre de Saint-Paul en 1878**
 
 Parler de Dieu ne signifie pas forcément le nommer. A travers l’Amour, le Beau, le Vrai et le Bien, Dieu se dit aussi. De nombreux articles racontent ce que des gens font de bien, présentent ce qui est beau. Et dans votre travail de journaliste, vous recherchez la vérité, et cela rejoint l’esprit de notre fondateur, le chanoine Schorderet, qui disait: «Ne blessez que les erreurs, les hommes aimez-les toujours!»
 
+![](/images/sr-agathe-pro-fr.jpg)
+
 **Qu’est-ce qui vous a incitée en particulier à vous engager pour la Congrégation des Sœurs de Saint-Paul?**
 
 Leur mission consiste à être au service de la presse et des autres moyens de communication sociale, afin d’annoncer l’Evangile. Mais l’Evangile, c’est tout ce qui permet à l’homme d’être debout. L’écrit contribue à la formation et à la culture. Comme élève, cela voulait dire pour moi, par le livre, donc par une imprimerie, alors même que je viens d’une culture orale pour avoir grandi au Sénégal. La diffusion d’une parole qui relève, qui apaise, qui crée des ponts, ou encore qui met le Bien en lumière m’a attirée. J’ai rencontré des sœurs de Saint-Paul au Sénégal. Avec des amies, nous allions leur acheter des cartes de vœux. Et j’ai eu envie de ressembler à celles qui, par leurs prières et leurs activités, portent le monde de la presse auquel elles ont donné d’une certaine façon leur vie.
