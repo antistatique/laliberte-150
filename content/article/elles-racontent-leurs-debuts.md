@@ -24,7 +24,7 @@ Anne Dousse, aujourd’hui âgée de 67ans, se souvient avec enthousiasme de ses
 
 #### Ignorer les ragots
 
-Elle se souvient toutefois de bruits de couloirs à Berne: «Quand je décrochais des informations que des collègues n’avaient pas, on entendait dire qu’elle les avait obtenues sur l’oreiller…» Ces ragots ne lui ont pas fait peur pour autant: elle a continué à avancer. Elle a ensuite répondu à l’appel de Roger de Diesbach, alors rédacteur à _La Tribune_ (ancien _Matin_), et quitté _La Liberté_. Elle a fonctionné comme journaliste parlementaire durant une vingtaine d’années. Et a continué à suivre le quotidien fribourgeois: «_La Liberté_ a toujours été pour moi un journal de référence.» Et de préciser: «Mes deux mentors ont été François Gross et Roger de Diesbach, qui a lui aussi occupé plus tard le poste de rédacteur en chef à _La Liberté_.»
+Elle se souvient toutefois de bruits de couloirs à Berne: «Quand je décrochais des informations que des collègues n’avaient pas, on entendait dire qu’elle les avait obtenues sur l’oreiller…» Ces ragots ne lui ont pas fait peur pour autant: elle a continué à avancer. Elle a ensuite répondu à l’appel de Roger de Diesbach, alors rédacteur à _La Tribune_ (ancien _Matin_), et quitté _La Liberté_. Elle a fonctionné comme journaliste parlementaire durant une vingtaine d’années. Et a continué à suivre le quotidien fribourgeois: «_La Liberté_ a toujours été pour moi un journal de référence.» Et de préciser: «Mes deux mentors ont été François Gross et Roger de Diesbach, qui a lui aussi occupé plus tard le poste de rédacteur en chef à _La Liberté_.» 
 
 > «C’était dur, mais si j’arrêtais, je savais que je n’aurais plus jamais la chance de faire ce métier. J’ai vraiment aimé ma profession»  
 > **Madeleine Joye**
