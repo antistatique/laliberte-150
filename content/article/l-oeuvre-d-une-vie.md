@@ -1,15 +1,15 @@
 +++
 author = "Stéphanie Buchs"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/im_08_be-1-20_atelier_composition_2.jpg"
+banner_hd = "/images/im_08_be-1-20_atelier_composition_2.jpg"
+banner_thumb = "/images/im_08_be-1-20_atelier_composition_2.jpg"
+cover = "/images/im_08_be-1-20_atelier_composition_2.jpg"
 date = ""
 date_display = ""
 draft = true
 featured = false
 images = []
-landscape_banner = false
+landscape_banner = true
 order = 1
 reading_time = "3 min"
 summary = "Encore présente sur trois continents, la Congrégation des Sœurs de Saint-Paul compte 110 sœurs, dont une quarantaine qui vivent à Fribourg. Aucune ne travaille encore pour La Liberté aujourd’hui"
