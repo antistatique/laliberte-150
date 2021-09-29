@@ -1,9 +1,9 @@
 +++
 author = "Stéphanie Buchs"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/agnes_600.jpg"
+banner_hd = "/images/agnes_1700.jpg"
+banner_thumb = "/images/agnes_200.jpg"
+cover = "/images/agnes_1200.jpg"
 date = ""
 date_display = ""
 draft = true
