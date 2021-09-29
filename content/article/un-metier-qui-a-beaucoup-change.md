@@ -6,7 +6,6 @@ banner_thumb = "/images/linotype_26082021_cr09.jpg"
 cover = "/images/linotype_26082021_cr09.jpg"
 date = ""
 date_display = ""
-draft = true
 featured = false
 images = []
 landscape_banner = true
