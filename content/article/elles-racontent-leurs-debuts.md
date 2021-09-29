@@ -6,7 +6,6 @@ banner_thumb = "/images/journalistes_03092021_cr08.jpg"
 cover = "/images/journalistes_03092021_cr08.jpg"
 date = ""
 date_display = ""
-draft = true
 featured = false
 images = []
 landscape_banner = false

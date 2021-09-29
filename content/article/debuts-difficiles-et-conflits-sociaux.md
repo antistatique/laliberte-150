@@ -6,7 +6,6 @@ banner_thumb = ""
 cover = ""
 date = ""
 date_display = ""
-draft = true
 featured = false
 images = []
 landscape_banner = false
