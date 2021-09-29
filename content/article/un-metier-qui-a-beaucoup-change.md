@@ -1,9 +1,9 @@
 +++
 author = "Stéphanie Buchs"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/linotype_26082021_cr09.jpg"
+banner_hd = "/images/linotype_26082021_cr09.jpg"
+banner_thumb = "/images/linotype_26082021_cr09.jpg"
+cover = "/images/linotype_26082021_cr09.jpg"
 date = ""
 date_display = ""
 draft = true
