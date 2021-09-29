@@ -9,6 +9,7 @@ date_display = ""
 draft = true
 featured = false
 images = []
+landscape_banner = false
 order = 1
 reading_time = "3 min"
 summary = "Sans l’engagement des sœurs de l'Oeuvre de Saint-Paul dès 1874, La Liberté aurait peut-être disparu."
@@ -19,6 +20,9 @@ videos_cover = ""
 
 +++
 C’est dans un contexte tourmenté qu’est publié le premier numéro de _La Liberté_, le dimanche 1er octobre 1871. En Europe, mais aussi en Suisse, une guerre religieuse (_Kulturkampf_) fait rage. «La mise sous pression d’une Eglise romaine affirmant sa primauté et l’infaillibilité de son chef face au rationalisme, au libéralisme et au nationalisme nourrit une réaction d’assiégés chez ses fidèles», écrit François Python dans l’ouvrage consacré aux 150 ans de _La Liberté_. Parmi eux, l’abbé Joseph Schorderet – ordonné prêtre en 1866 – joue un rôle central dans les premiers pas de ce nouveau journal catholique à Fribourg.
+
+**980  
+Le nombre de tirages de _La Liberté_ en 1871**
 
 Le religieux entend combattre toute tentative de fonder en Suisse une Eglise nationale soumise à l’Etat et non au pape. Ayant acquis une expérience dans la presse, Joseph Schorderet rêve de fonder un quotidien qui défendrait les catholiques. Il contribue à activer l’Association suisse de Pie IX, qui tient un congrès national à Fribourg les 29 et 30 août 1871. La décision est prise de lancer un quotidien catholique.
 
