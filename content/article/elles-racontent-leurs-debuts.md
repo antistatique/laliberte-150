@@ -1,9 +1,9 @@
 +++
 author = "Stéphanie Buchs"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/journalistes_03092021_cr08.jpg"
+banner_hd = "/images/journalistes_03092021_cr08.jpg"
+banner_thumb = "/images/journalistes_03092021_cr08.jpg"
+cover = "/images/journalistes_03092021_cr08.jpg"
 date = ""
 date_display = ""
 draft = true
