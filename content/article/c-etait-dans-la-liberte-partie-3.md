@@ -26,6 +26,8 @@ A l’intérieur du cahier, l’entier de la page 3 est consacré à cette élec
 
 Contrairement aux articles consacrés à des événements plus anciens, celui-ci est ponctué de citations directes. Le style se rapproche donc davantage de ce que nous connaissons aujourd’hui dans la presse écrite. En revanche, les journalistes actuels n’écriraient plus des descriptions comme «Il a plu à tout le monde l’ensemble bleu foncé et mauve porté hier par Elisabeth Kopp. La chaîne en or itou. Chic et simple.»
 
+***
+
 #### 1989: Les coulisses d’une réunification
 
 «Le rideau de fer s’ouvre». C’est le titre qui figure en couverture de _La Liberté_, ce vendredi 10 novembre 1989. Le papier d’agence de cette édition revient sur la décision historique prise la veille par la République démocratique d’Allemagne (RDA) d’ouvrir ses frontières vers son voisin de l’ouest, qualifiant la décision de «mesure spectaculaire». Le journaliste Charles Bays, qui rapporte dans son commentaire que cette annonce est aussi faite par la RDA pour «endiguer l’hémorragie humaine qui vide le pays de ses forces», presse la portée significative de cet acte en parlant d’«événement majeur de l’après-guerre». Correspondant depuis Bonn en République fédérale d’Allemagne (RFA), Marcel Delvaux revient sur la crise du logement induite par l’«exode des réfugiés est-allemands», mais ne donne que peu d’informations supplémentaires aux lecteurs, qui devront patienter jusqu’au lendemain pour apprendre que la démolition du mur est en cours à Berlin.
@@ -34,6 +36,8 @@ Contrairement aux articles consacrés à des événements plus anciens, celui-ci
 
 «Polémique à Bonn sur la RDA», «Il propose une Confédération allemande»: les correspondants à Bonn Marcel Linden et Marcel Delvaux se relaient chaque semaine dans les pages de La Liberté pour faire vivre aux lecteurs tous les rebondissements de cette saga géopolitique historique. La Une du 3 octobre 1990 célèbre la réunification officielle des deux Allemagnes sous le titre «L’union dans la liesse».
 
+***
+
 #### 2001: Le choc des attentats terroristes
 
 Durant neuf jours, _La Liberté_ consacre sa couverture aux attentats terroristes du 11 septembre 2001, qui ont durement frappé les Américains. Le mercredi 12 septembre, sous le titre «Les Etats-Unis plongés dans la terreur», écrit dans une police inhabituelle, jaune sur fond noir, le quotidien traite pour la première fois du drame. A droite de la page, un éditorial signé par le rédacteur en chef d’alors, Roger de Diesbach, qui, à la recherche d’un coupable, dirige déjà le regard des lecteurs vers l’organisation terroriste d’Oussama Ben Laden et appelle à une réponse réfléchie: «Il faut priver les fondamentalistes islamistes de leur principale base arrière: la majorité du monde qui vit toujours dans la misère.»
@@ -41,6 +45,8 @@ Durant neuf jours, _La Liberté_ consacre sa couverture aux attentats terroriste
 Sur les quatre premières pages de l’édition se succèdent témoignages de rescapés, réactions suisses, compte rendu détaillé du parcours des quatre Boeings détournés, dessins de presse, infographie ou encore conséquences économiques. «Les Etats-Unis n’ont pas voulu cette guerre, car c’est bien d’une guerre qu’il s’agit, mais nous ne pouvons pas nous permettre de refuser de la mener», analyse Pascal Baeriswyl. Dans un texte introspectif, le journaliste André Klopmann prophétise: «Dans vingt ans, chacun saura ce qu’il faisait exactement le 11 septembre 2001, à l’heure où l’Amérique et le monde ont changé d’époque».
 
 _La Liberté_ couvre assidûment l’actualité et les conséquences directes des attentats jusqu’au 21 septembre, consacrant chaque jour plusieurs pages aux événements. Le 7 octobre 2001, la guerre antiterroriste menée par le président américain George W. Bush éclate.
+
+***
 
 #### 2005: Pape Jean-Paul II: santo subito!
 
