@@ -1,9 +1,9 @@
 +++
 author = "Pascal Fleury, Patricia Morand"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/otarie600.jpg"
+banner_hd = "/images/otarie1700.jpg"
+banner_thumb = "/images/otarie200.jpg"
+cover = "/images/otarie1200.jpg"
 date = ""
 date_display = ""
 draft = true
@@ -35,6 +35,10 @@ Lors de la disparition du supplément, liée à la baisse publicitaire, l’appr
 
 **14 juin 1996**. _La Liberté_ se branche sur internet. Pour l’événement, Claude Chuard, rédacteur en chef adjoint, signe même un éditorial expliquant l’intention du quotidien, qui voulait simplement vivre avec son temps. «Il désire participer, à son échelle, à une des aventures les plus excitantes de cette fin de siècle en matière de communication.»
 
+![](/images/capture-d-ecran-2021-09-29-a-17-55-05.png)
+
+(LEGENDE) Voici à qui ressemblait le site web de _La Liberté_ à ses débuts
+
 En tapant www.laliberte.ch sur son clavier d’ordinateur, comme le précisait l’édito, le lecteur découvrait une offre limitée: cinq rubriques (éditorial avec article de fond, magazine, sport, sortir et petites annonces). Un typographe était chargé de la mise en ligne des articles. La phase, expérimentale, a duré.
 
 Le journal continue à se lire sur un écran – plat désormais – mais aussi sur tablette ou smartphone, où un doigt suffit pour faire défiler l’information. Vingt-cinq ans plus tard, _La Liberté_ est toujours présente sur internet, à la même adresse ou avec une application, mais aussi sur les réseaux sociaux Facebook, Instagram ou Twitter. Elle propose également des articles en primeur à ses abonnés et des newsletters.
@@ -53,9 +57,13 @@ Un premier journaliste a été engagé à 50% pour animer le site en 2011. La ce
 
 **22 juillet 1997**. Le Tour de France fait étape à Fribourg. Parti de Morzine, le peloton entre dans le canton de Fribourg peu avant Montbovon, traverse Bulle avant de rallier Fribourg. Le Français Christophe Mengin gagne au sprint en haut du boulevard de Pérolles. Les principales artères de la ville sont bouclées, la population est en effervescence, comme les bureaux de la rédaction. Impossible d’éviter le brouhaha ambiant.
 
+![](/images/capture-d-ecran-2021-09-29-a-18-34-34.png)
+
 Une édition spéciale paraît en soirée, vendue à la criée à Bulle et à Fribourg. L’affluence est énorme dans la capitale cantonale, où se déroule également le festival Jazz Parade, avec ce mardi soir un concert de Soldat Louis à la place Georges-Python.
 
 Toutes les forces rédactionnelles ont été mobilisées. L’édition du 23 juillet se compose de quatre cahiers, les deux premiers habituels (Suisse, International, Economie et Régions), puis le «Spécial TdF», à la place du Magazine, et le Sport pour terminer. Un édito du rédacteur en chef Roger de Diesbach affirme que le Tour, c’est du jaune soleil pour la ville. Le cahier spécial se compose de sept pages rédactionnelles avec, en plus des articles autour de la course elle-même, des sujets plus large public traités par des journalistes d’autres rubriques: ambiance (Magalie Goumaz), reportage au col de la Croix (Patrice Favre), dans les hôtels (Kessava Packiry) ou lors de l’installation de la ligne d’arrivée (Serge Gumy).
+
+![](/images/capture-d-ecran-2021-09-29-a-18-35-38.png)
 
 Pour l’anecdote, une édition spéciale avait été préparée en 2013, prête à être imprimée en cas de titre de Gottéron. Elle n’a jamais paru.
 
