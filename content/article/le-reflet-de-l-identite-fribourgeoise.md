@@ -6,7 +6,6 @@ banner_thumb = "/images/python_200.jpg"
 cover = "/images/python_1200.jpg"
 date = ""
 date_display = ""
-draft = true
 featured = false
 images = []
 landscape_banner = false

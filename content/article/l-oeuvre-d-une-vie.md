@@ -6,7 +6,6 @@ banner_thumb = "/images/im_08_be-1-20_atelier_composition_2.jpg"
 cover = "/images/im_08_be-1-20_atelier_composition_2.jpg"
 date = ""
 date_display = ""
-draft = true
 featured = false
 images = []
 landscape_banner = true
