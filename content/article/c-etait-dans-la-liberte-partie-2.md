@@ -28,6 +28,8 @@ Le lundi 3 novembre, dans un article non signé sur deux colonnes pleines, le j
 
 En conclusion du texte et dans des entrefilets parus les jours suivants, le quotidien se réjouira même que l’opération menée par ce petit groupement de producteurs romands a très largement échoué, et, surtout, que le mot d’ordre de grève n’a quasiment pas été suivi dans le canton de Fribourg, resté très sage pour l’occasion.
 
+***
+
 #### 1963: Kennedy, une mort bien orchestrée
 
 Le 22 novembre 1963, le président américain John Fitzgerald Kennedy est assassiné à Dallas. Le lendemain, _La Liberté_ publie deux pleines pages sur cet «horrible attentat» contre «ce jeune et dynamique homme d’Etat», mais ne consacre qu’une colonne de commentaire en Une, illustrée par un petit portrait, l’essentiel de la page étant consacré à l’actualité religieuse. L’éditorialiste fait le lien avec l’assassinat un siècle plus tôt d’Abraham Lincoln et imagine «tous ceux à qui cette mort peut profiter». Rappelant que «deux grands hommes sont morts cette année, le pape Jean XXIII et John Kennedy», il se montre extrêmement lucide: «Devant l’horreur de cet acte, on voudrait espérer que toute la lumière sera faite sur ses tenants et ses aboutissants. Mais pourra-t-elle l’être? Tout attentat contre un homme d’Etat pose des énigmes qui ne sont que trop rarement élucidées.»
@@ -37,13 +39,17 @@ Le 22 novembre 1963, le président américain John Fitzgerald Kennedy est assas
 
 Les deux pages publiées le même jour sur cette «mort tragique», signées essentiellement par les agences de presse, impressionnent par la richesse des témoignages: «Du sang coulait de la tête de M. Kennedy, tandis que son épouse, qui était à son côté, s’accrochait à lui en criant: «Oh! Non, ça n’est pas possible!» Ou, plus loin: «Deux prêtres ont été appelés au chevet du président, qui a reçu les derniers sacrements.» Le quotidien annonce déjà nommément l’arrestation du suspect Lee Harvey Oswald, évoquant ses liens avec l’URSS. Il décrit dans le détail cet «assassinat minutieusement préparé» et publie même une photo de la voiture présidentielle lors de l’attentat. A croire que tout avait été orchestré bien à l’avance… y compris la couverture médiatique.
 
+***
+
 #### 1969: La «conquête» de la Lune
 
-Le lundi 21 juillet 1969, à 3h56, alors que le «vélonaute» Eddy Merckx vient de remporter pour la première fois le Tour de France, les Américains posent le pied sur la Lune. _La Liberté_, qui suit dans le détail l’aventure d’Apollo-11 depuis son lancement le 16 juillet du Centre spatial Kennedy, se montre emphatique: «L’homme, déjà maître de la Terre, a conquis une nouvelle planète. Neil Armstrong, commandant du vol Apollo, est descendu sur la Lune, en a foulé le sol et en a pris possession au nom de l’humanité. (…) La Lune désormais appartient à l’homme. Ni apprivoisée, ni domestiquée encore, elle est néanmoins conquise.» Ce discours conquérant, au ton surprenant, s’inscrit évidemment dans le contexte très tendu de la guerre froide. 
+Le lundi 21 juillet 1969, à 3h56, alors que le «vélonaute» Eddy Merckx vient de remporter pour la première fois le Tour de France, les Américains posent le pied sur la Lune. _La Liberté_, qui suit dans le détail l’aventure d’Apollo-11 depuis son lancement le 16 juillet du Centre spatial Kennedy, se montre emphatique: «L’homme, déjà maître de la Terre, a conquis une nouvelle planète. Neil Armstrong, commandant du vol Apollo, est descendu sur la Lune, en a foulé le sol et en a pris possession au nom de l’humanité. (…) La Lune désormais appartient à l’homme. Ni apprivoisée, ni domestiquée encore, elle est néanmoins conquise.» Ce discours conquérant, au ton surprenant, s’inscrit évidemment dans le contexte très tendu de la guerre froide.
 
-Dans les pages consacrées aux astronautes – que _La Liberté_ appelle encore «cosmonautes» (!) – le quotidien fribourgeois s’inquiète ainsi à plusieurs reprises de la mission soviétique simultanée Luna-15, dont le vol circumlunaire pourrait mettre en péril l’alunissage du module lunaire américain (LEM). _La Liberté_ revient également sur la citation «forcément historique» d’Armstrong, «L’Aigle a atterri!», prononcée au premier contact du LEM dans la poussière lunaire de la mer de la Tranquillité. Pour le journal, qui relaie l’AFP, «c’est bien sûr l’aigle royal des Rocheuses, l’emblème des Etats-Unis, mais il porte dans ses serres, rappelle-t-on à Houston, une plaque de paix au nom de l’humanité tout entière». 
+Dans les pages consacrées aux astronautes – que _La Liberté_ appelle encore «cosmonautes» (!) – le quotidien fribourgeois s’inquiète ainsi à plusieurs reprises de la mission soviétique simultanée Luna-15, dont le vol circumlunaire pourrait mettre en péril l’alunissage du module lunaire américain (LEM). _La Liberté_ revient également sur la citation «forcément historique» d’Armstrong, «L’Aigle a atterri!», prononcée au premier contact du LEM dans la poussière lunaire de la mer de la Tranquillité. Pour le journal, qui relaie l’AFP, «c’est bien sûr l’aigle royal des Rocheuses, l’emblème des Etats-Unis, mais il porte dans ses serres, rappelle-t-on à Houston, une plaque de paix au nom de l’humanité tout entière».
 
 De son côté, le rédacteur ecclésiastique Alphonse Menoud y va de son sermon en première page, soulignant que «l’homme ne commet aucune impiété en poussant toujours plus loin l’audace de ses explorations, pourvu qu’il reconnaisse partout les liens de dépendance qui nous relient au Créateur». A noter qu’en Une du journal, le 23 juillet, l’article «Les conquérants de la Lune» est illustré par une photo… du pape Paul VI regardant le ciel dans une lunette astronomique!
+
+***
 
 #### 1980: Les brise-glace du Gottéron
 
