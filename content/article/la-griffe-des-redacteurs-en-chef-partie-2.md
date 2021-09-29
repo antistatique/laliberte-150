@@ -1,9 +1,9 @@
 +++
 author = "Pascal Fleury"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/gross-600.jpg"
+banner_hd = "/images/ggross-1700.jpg"
+banner_thumb = "/images/ggross-200.jpg"
+cover = "/images/gross_1200.jpg"
 date = ""
 date_display = ""
 draft = true
