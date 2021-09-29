@@ -37,4 +37,4 @@ En septembre 1998, on demande au lecteur s’il souhaite le maintien des quatre 
 
 _La Liberté_ telle qu’elle existe aujourd’hui paraît pour la première fois le 15 juin 2016. Le journal propose une valorisation de l’image et de l’infographie et innove avec une Der décalée. Les rubriques Evasion et Multimédia s’installent, le Forum des lecteurs passe à un rythme quotidien.
 
-[kvclkvlcxk]()
+{{% archive href="https://www.e-newspaperarchives.ch/lelienexact" target="_blank" title="Mon titre" date="12/02/1985" image="/images/archive.png" %}} Description {{% /archive %}}
