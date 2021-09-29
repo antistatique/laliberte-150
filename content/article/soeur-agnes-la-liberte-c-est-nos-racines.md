@@ -25,6 +25,9 @@ La Congrégation des Sœurs de Saint-Paul est toujours propriétaire majoritaire
 
 **Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que la Congrégation des Sœurs de Saint-Paul a été fondée. _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
 
+**70  
+Le nombre de soeurs membres de l'Oeuvre de Saint-Paul en 1878**
+
 **Mais que représente notre quotidien aujourd’hui pour la congrégation, alors qu’il ne porte plus beaucoup de message religieux?**
 
 Parler de Dieu ne signifie pas forcément le nommer. A travers l’Amour, le Beau, le Vrai et le Bien, Dieu se dit aussi. De nombreux articles racontent ce que des gens font de bien, présentent ce qui est beau. Et dans votre travail de journaliste, vous recherchez la vérité, et cela rejoint l’esprit de notre fondateur, le chanoine Schorderet, qui disait: «Ne blessez que les erreurs, les hommes aimez-les toujours!»
