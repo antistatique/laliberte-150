@@ -1,9 +1,9 @@
 +++
 author = "Pascal Fleury, Camille Besse"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/11_600.jpg"
+banner_hd = "/images/11_1700.jpg"
+banner_thumb = "/images/11_200.jpg"
+cover = "/images/11_1200.jpg"
 date = ""
 date_display = ""
 draft = true
