@@ -1,9 +1,9 @@
 +++
 author = "Pascal Fleury, François Mauron, Camille Besse"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/lune_824.jpg"
+banner_hd = "/images/lune_1700.jpg"
+banner_thumb = "/images/lune_200.jpg"
+cover = "/images/lune_1200.jpg"
 date = ""
 date_display = ""
 draft = true
