@@ -6,7 +6,6 @@ banner_thumb = "/images/ggross-200.jpg"
 cover = "/images/gross_1200.jpg"
 date = ""
 date_display = ""
-draft = true
 featured = false
 images = []
 landscape_banner = false
