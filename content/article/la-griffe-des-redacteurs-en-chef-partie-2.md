@@ -1,7 +1,7 @@
 +++
 author = "Pascal Fleury"
 banner = "/images/gross-600.jpg"
-banner_hd = "/images/ggross-1700.jpg"
+banner_hd = "/images/gross_1700x2335.jpg"
 banner_thumb = "/images/ggross-200.jpg"
 cover = "/images/gross_1200-1.jpg"
 date = ""
