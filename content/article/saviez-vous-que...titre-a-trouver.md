@@ -7,6 +7,7 @@ cover = "/images/otarie1200-1.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = ""
 images = []
 landscape_banner = false
 order = 9
@@ -61,7 +62,7 @@ Un premier journaliste a été engagé à 50% pour animer le site en 2011. La ce
 
 Une édition spéciale paraît en soirée, vendue à la criée à Bulle et à Fribourg. L’affluence est énorme dans la capitale cantonale, où se déroule également le festival Jazz Parade, avec ce mardi soir un concert de Soldat Louis à la place Georges-Python.
 
-Toutes les forces rédactionnelles ont été mobilisées. L’édition du 23 juillet se compose de quatre cahiers, les deux premiers habituels (Suisse, International, Economie et Régions), puis le «Spécial TdF», à la place du Magazine, et le Sport pour terminer. Un édito du rédacteur en chef [Roger de Diesbach](https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-3/) affirme que le Tour, c’est du jaune soleil pour la ville. Le cahier spécial se compose de sept pages rédactionnelles avec, en plus des articles autour de la course elle-même, des sujets plus large public traités par des journalistes d’autres rubriques: ambiance (Magalie Goumaz), reportage au col de la Croix (Patrice Favre), dans les hôtels (Kessava Packiry) ou lors de l’installation de la ligne d’arrivée ([Serge Gumy](https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-3/)).
+Toutes les forces rédactionnelles ont été mobilisées. L’édition du 23 juillet se compose de quatre cahiers, les deux premiers habituels (Suisse, International, Economie et Régions), puis le «Spécial TdF», à la place du Magazine, et le Sport pour terminer. Un édito du rédacteur en chef <a href="https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-3/["](https://www.e-newspaperarchives.ch/?a=d&d=LLE18711001-01&e=-------fr-20--1--img-txIN--------0-----%22 "https://www.e-newspaperarchives.ch/?a=d&d=lle18711001-01&e=-------fr-20--1--img-txin--------0-----%22") target="_blank">Roger de Diesbach</a> affirme que le Tour, c’est du jaune soleil pour la ville. Le cahier spécial se compose de sept pages rédactionnelles avec, en plus des articles autour de la course elle-même, des sujets plus large public traités par des journalistes d’autres rubriques: ambiance (Magalie Goumaz), reportage au col de la Croix (Patrice Favre), dans les hôtels (Kessava Packiry) ou lors de l’installation de la ligne d’arrivée ( <a href="https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-3/" target="_blank">Serge Gumy</a>).
 
 ![](/images/capture-d-ecran-2021-09-29-a-18-35-38.png)
 
