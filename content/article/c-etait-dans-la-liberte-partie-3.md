@@ -7,6 +7,7 @@ cover = "/images/11_1700-1.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = ""
 images = []
 landscape_banner = false
 order = 13
@@ -64,6 +65,6 @@ Au soir du samedi 2 avril 2005, après 26ans d’un règne d’exception, le «
 
 En première page, sous l’image iconique d’un pape souffrant s’agrippant à sa croix, le réacteur en chef de _La Liberté_, Louis Ruffieux, relève ses inlassables combats, saisissants de contrastes: «Jean-Paul II, déstabilisateur du bloc communiste et du monde version Yalta, mais pourfendeur du capitalisme sauvage et premier «altermondialiste». Missionnaire du rapprochement interreligieux, mais rigide sur les positions morales les plus controversées de l’Eglise catholique. Excommunicateur de Mgr Lefebvre, mais sanctificateur du fondateur de l’Opus Dei. Censeur de la société moderne, de ses veaux d’or et de sa «culture de la mort», mais formidable catalyseur de la jeunesse, qui l’écoute à défaut de toujours l’entendre.»
 
-Le lundi 4 avril, alors que toute la «génération Jean-Paul II» pleure son pape, [le quotidien fribourgeois publie à nouveau huit pages de réactions «unanimes»](https://www.e-newspaperarchives.ch/?a=d&d=LLE20050404-01&e=-------fr-20--1--img-txIN--------0-----): de sa Pologne natale à Cuba ou Israël, des Etats-Unis au monde arabe, la planète entière vante ce «champion de la réconciliation». Fribourg n’est pas en reste: à l’évêché, plus de trois cents Fribourgeois, passant sous deux drapeaux du Vatican crêpés de noir, se succèdent devant deux gardes suisses en grande tenue pour manifester, sur le livre de condoléances, «leur tristesse, leur amour humble et leur admiration pour le souverain pontife et le courage qu’il a manifesté jusqu’à son dernier jour».
+Le lundi 4 avril, alors que toute la «génération Jean-Paul II» pleure son pape, <a href="https://www.e-newspaperarchives.ch/?a=d&d=LLE20050404-01&e=-------fr-20--1--img-txIN--------0-----" target="_blank">le quotidien fribourgeois publie à nouveau huit pages de réactions «unanimes»</a>: de sa Pologne natale à Cuba ou Israël, des Etats-Unis au monde arabe, la planète entière vante ce «champion de la réconciliation». Fribourg n’est pas en reste: à l’évêché, plus de trois cents Fribourgeois, passant sous deux drapeaux du Vatican crêpés de noir, se succèdent devant deux gardes suisses en grande tenue pour manifester, sur le livre de condoléances, «leur tristesse, leur amour humble et leur admiration pour le souverain pontife et le courage qu’il a manifesté jusqu’à son dernier jour».
 
 «L’ampleur des réactions à son décès, au travers du monde, transcende les clivages politiques, religieux ou culturels», commente Pascal Baeriswyl. «Jusque dans la mort, le pape qui vient de s’éteindre aura su toucher le cœur de tout un chacun, du balayeur au président.» Déjà, le mot est lancé: Jean-Paul II est «un saint». Sa canonisation par le pape François aura lieu en 2014.
