@@ -67,7 +67,7 @@ L’article explique ensuite que le bouleversement de la Première Guerre mondia
 
 On aurait pu s’attendre à ce que l’invasion allemande des Pays-Bas, de la Belgique, du Luxembourg et de la France, le 10 mai 1940, donne lieu à un article en Une de _La Liberté_. Or ce n’est qu’en deuxième page qu’est publié un véritable dossier sur le sujet, qui débute ainsi: «Le front d’Occident, immobile depuis neuf mois, est entré en mouvement. Le duel à mort engagé entre l’Allemagne et la coalition franco-anglaise est maintenant dans la phase décisive.» Depuis septembre 1939 et l’invasion de la Pologne par la Wehrmacht, Allemands et Alliés se faisaient face sans combattre dans l’ouest de l’Europe dans ce que l’on a appelé la «drôle de guerre».
 
-{{% archive href="https://www.laliberte.ch/media/document/42/lle_19400510_0001.pdf" target="_blank" title="L'invasion de la France" date="12/02/1985" image="/images/capture-d-ecran-2021-09-30-a-09-05-00.png" %}}  {{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/lle_19400510_0001.pdf" target="_blank" title="L'invasion de la France" date="10/05/1940" image="/images/capture-d-ecran-2021-09-30-a-09-05-00.png" %}} {{% /archive %}}
 
 Fait marquant, l’utilisation du «nous» dans l’article, particulièrement engagé. Plusieurs formulations dénoncent l’attaque allemande contre des Etats neutres. «Le sort tragique de la Hollande et de la Belgique a un écho particulièrement douloureux chez le peuple suisse, qui se sent très proche, par l’esprit et le cœur, de ces populations pacifiques, honnêtes, laborieuses, éprises comme lui des idées d’honneur et de liberté et animées du même désir d’entente internationale.»
 
