@@ -18,7 +18,7 @@ videos = ""
 videos_cover = ""
 
 +++
-#### 1947: Une «néfaste» grève du lait
+### 1947: Une «néfaste» grève du lait
 
 Au début du mois de novembre 1947, des agriculteurs romands, revendiquant une hausse du prix du lait, contrôlé par la Confédération, lancent une action de grève du lait au motif que l’augmentation des tarifs proposée par le Conseil fédéral est insuffisante. _La Liberté_ couvre cette actualité plusieurs jours de suite, dans ses «Nouvelles de la dernière heure», en dernière page du journal.
 
