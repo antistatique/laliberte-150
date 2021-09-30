@@ -7,6 +7,7 @@ cover = "/images/1200-1.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = "/images/lesune-1.jpg"
 images = []
 landscape_banner = false
 order = 5
@@ -16,7 +17,7 @@ title = "Une hiérarchie de plus en plus précise"
 title_style = "brik"
 videos = ""
 videos_cover = ""
-footer_image = "/images/timeline_1.png"
+
 +++
 Onze pages rédactionnelles sur un total de trente-deux pages: _La Liberté_ du 1er octobre 1971, jour du centenaire, n’avait déjà plus rien à voir avec la première édition, un feuillet de quatre pages, mais elle n’était pas encore la formule à quatre cahiers distincts. Aujourd’hui, de la plage de vie en pied de Une à la Der avec son mot de la fin, en passant par le dessin d’Alex ou le Forum des lecteurs, le journal se lit sur papier, sur tablette ou écran d’ordinateur et propose également des enrichissements sur la toile ou des «stories» Insta.
 
