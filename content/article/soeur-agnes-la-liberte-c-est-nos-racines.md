@@ -48,6 +48,6 @@ Tous les cinq ans, nous prenons le temps d’un bilan, nous élaborons des persp
 
 **Comment envisagez-vous l’avenir de votre congrégation?**
 
-Notre avenir dépend de notre foi dans le Christ mort et ressuscité et de l’amour que nous avons les unes pour les autres. Cette année 2021, nous avons célébré l’engagement définitif de cinq sœurs vietnamiennes et d’une sœur malgache; trois Burundaises et deux Malgaches feront bientôt leurs premiers vœux. Il y a donc encore des jeunes femmes qui répondent à l’appel du Christ. [Nous sommes 110, réparties dans cinq pays](https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/), dont une quarantaine ici à Fribourg. Même si le tronc est vieillissant, il y a toujours de nouvelles branches dans lesquelles coule la même sève.
+Notre avenir dépend de notre foi dans le Christ mort et ressuscité et de l’amour que nous avons les unes pour les autres. Cette année 2021, nous avons célébré l’engagement définitif de cinq sœurs vietnamiennes et d’une sœur malgache; trois Burundaises et deux Malgaches feront bientôt leurs premiers vœux. Il y a donc encore des jeunes femmes qui répondent à l’appel du Christ. <a href="https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/" target="_blank">Nous sommes 110, réparties dans cinq pays</a>, dont une quarantaine ici à Fribourg. Même si le tronc est vieillissant, il y a toujours de nouvelles branches dans lesquelles coule la même sève.
 
 ***
