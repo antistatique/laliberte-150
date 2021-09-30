@@ -18,7 +18,7 @@ videos = ""
 videos_cover = ""
 
 +++
-#### Un Hebdo pour le Grand Fribourg
+### Un Hebdo pour le Grand Fribourg
 
 **1990-1992**. Durant deux ans, du 6 avril 1990 au 16 avril 1992, _La Liberté_ a publié le supplément Grand Fribourg Hebdo, qui était distribué gratuitement à Fribourg et dans les localités avoisinantes. L’objectif de ce tout-ménage de 12 à 16 pages, animé par Pierre-André Zurkinden, était double: créer «un trait d’union entre Fribourg et ses communes périphériques» et verrouiller un marché publicitaire convoité.
 
@@ -30,11 +30,11 @@ Lors de la disparition du supplément, liée à la baisse publicitaire, l’appr
 
 ***
 
-#### L’expérimentation qui a duré
+### L’expérimentation qui a duré
 
 **14 juin 1996**. _La Liberté_ se branche sur internet. Pour l’événement, Claude Chuard, rédacteur en chef adjoint, signe même un éditorial expliquant l’intention du quotidien, qui voulait simplement vivre avec son temps. «Il désire participer, à son échelle, à une des aventures les plus excitantes de cette fin de siècle en matière de communication.»
 
-![](/images/capture-d-ecran-2021-09-29-a-17-55-05.png)
+![Voici à qui ressemblait le site web de La Liberté à ses débuts](/images/capture-d-ecran-2021-09-29-a-17-55-05.png "Voici à qui ressemblait le site web de La Liberté à ses débuts")
 
 (LEGENDE) Voici à qui ressemblait le site web de _La Liberté_ à ses débuts
 
@@ -46,13 +46,13 @@ Un premier journaliste a été engagé à 50% pour animer le site en 2011. La ce
 
 ***
 
-#### La Liberté fait son carnaval
+### La Liberté fait son carnaval
 
 **2000**. Mais quelle mouche a bien pu piquer _La Liberté_, en 2000, pour qu’elle «ose» éditer un véritable journal de carnaval? Assurément, la décoiffante tempête _Lothar_ a secoué les esprits. Le 4 mars, elle publie le supplément _Lotharie_, où elle révèle, photomontages et dessins à l’appui, les effets stupéfiants du maïs transgénique sur le Conseil d’Etat ou la recette du lynx sauce chasseur. Suivront une dizaine d’éditions aux titres évocateurs, comme _Le Quatrième Canard_ (Guggenjournal officiel de la moitié du Conseil communal de Fribourg), _La Barbe!_ (Journal à rebrousse-poil) de l’après-11 septembre, _Fritanic_ (Journal de tous les naufrages), _La Brosse à Deiss_, _A Fond la Caisse_ (Faire-part officiel de l’Institution de prévoyance de la ville de Fribourg), _Fri-Gor_e (Journal aux coups fourrés et aux châtaignes) ou encore _Le Rababo_u (Journal «official», avec Grand «Bettisier» incorporé), qui a évidemment «encensé» l’évêché. Avec les années, cet esprit de «franche déconnade» s’est essoufflé, mais l’humour reste de mise dans certaines rubriques de _La Liberté_. Toute l’année!
 
 ***
 
-#### Une édition spéciale en soirée
+### Une édition spéciale en soirée
 
 **22 juillet 1997**. Le Tour de France fait étape à Fribourg. Parti de Morzine, le peloton entre dans le canton de Fribourg peu avant Montbovon, traverse Bulle avant de rallier Fribourg. Le Français Christophe Mengin gagne au sprint en haut du boulevard de Pérolles. Les principales artères de la ville sont bouclées, la population est en effervescence, comme les bureaux de la rédaction. Impossible d’éviter le brouhaha ambiant.
 
@@ -68,7 +68,7 @@ Pour l’anecdote, une édition spéciale avait été préparée en 2013, prête
 
 ***
 
-#### Une otarie à la rédaction!
+### Une otarie à la rédaction!
 
 **1991**. L’un des défis des journalistes, c’est le traitement des «marronniers», ces articles consacrés à des événements annuels aussi prévisibles que récurrents. Ainsi en est-il de la rentrée des classes, de la bénichon, de la Saint-Nicolas, de Pâques ou des départs en vacances. Et bien sûr… du passage du Knie!
 

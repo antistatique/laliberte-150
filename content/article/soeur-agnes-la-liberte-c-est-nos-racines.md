@@ -24,8 +24,7 @@ La Congrégation des Sœurs de Saint-Paul est toujours propriétaire majoritaire
 
 **Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que la Congrégation des Sœurs de Saint-Paul a été fondée. _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
 
-**70  
-Le nombre de soeurs membres de l'Oeuvre de Saint-Paul en 1878**
+{{% number number-big="70" class="eiko" %}} Le nombre de soeurs membres de l'Oeuvre de Saint-Paul en 1878 {{% /number %}}
 
 **Mais que représente notre quotidien aujourd’hui pour la congrégation, alors qu’il ne porte plus beaucoup de message religieux?**
 

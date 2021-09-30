@@ -24,7 +24,7 @@ Mais avant d’arriver à _La Liberté_, il s’est lancé dans le métier en ef
 
 Après un début de carrière où il a travaillé notamment pour les Imprimeries réunies à Lausanne, il est arrivé à _La Liberté_ pour travailler sur une Linotype. C’est une machine disposant d’un clavier spécial sur lequel le typographe tape le texte qui lui est transmis sur une feuille de papier. Cet engin dispose d’un réservoir où le plomb entre en fusion. Les lettres de plomb sont ainsi fabriquées au fur et à mesure et mises en place sur une plaque grâce à une mécanique complexe.
 
-#### Risque de saturnisme
+### Risque de saturnisme
 
 André Streuli a tellement aimé son métier qu’il a continué à faire des démonstrations au Musée Gutenberg, à Fribourg, durant plusieurs années pour montrer aux visiteurs le fonctionnement d’une Linotype. On le retrouve d’ailleurs au musée, face à cette machine mythique. Et il ne semble pas avoir perdu la main: tout en expliquant son fonctionnement, il se déplace pour remettre une courroie qui se décroche ou débloquer quelques lettres restées coincées sur le parcours qui les mène vers le plomb en fusion. «Heureusement que le journal ne doit pas sortir demain», rigole-t-il. Car la vieille machine hébergée par le musée ne tourne plus très juste.
 
@@ -33,13 +33,13 @@ André Streuli a tellement aimé son métier qu’il a continué à faire des d�
 
 Il profite donc de l’occasion pour expliquer la composition à la main. Il se met face à une grande table inclinée, où se trouve une casse divisée en petits casiers qui contiennent une ribambelle de caractères différents. «Il faut écrire à l’envers et ne pas oublier les majuscules et les espaces», précise-t-il en joignant le geste à la parole, composant «_La Liberté_» sur un composteur. Et le tout, sans lunettes. Son travail ne lui a-t-il pas usé les yeux? «J’ai de la chance, mais je n’ai jamais eu besoin de lunettes pour travailler.» Selon lui, «le plus gros risque pour la santé résidait plutôt dans la manipulation du plomb». «Le saturnisme était une maladie que craignaient tous les typographes», se souvient André Streuli. «Quand je travaillais à Lausanne, on nous donnait une petite brique de lait à boire chaque jour afin de limiter les effets secondaires du plomb.» Le saturnisme est une intoxication chronique au plomb suite à une exposition régulière.
 
-#### Aimer la langue française
+### Aimer la langue française
 
 Quelles qualités fallait-il pour être typographe? «Il fallait surtout être bon en orthographe et en grammaire, mais aussi être capable de résister au stress, être précis et avoir une bonne capacité de concentration», répond André Streuli. «J’ai toujours beaucoup aimé la langue française.»
 
 A _La Liberté_, il a travaillé durant 31ans pour le service de nuit. «Je commençais à 18h et je finissais à minuit et demi.» Ces horaires lui ont permis de mieux voir grandir ses enfants. «Je m’occupais de les envoyer à l’école le matin et du repas de midi, car leur maman travaillait la journée.»
 
-#### Dernière ligne de plomb
+### Dernière ligne de plomb
 
 Il se souvient très clairement de la date de la dernière ligne de plomb composée avec la Linotype à Saint-Paul: «C’était le 1er mai 1981. On est ensuite passé à la photocomposition.» Le plomb a ainsi disparu de tout le processus de mise en page pour laisser place aux machines à écrire spéciales qui imprimaient sur des films photos. Les ciseaux et la colle faisaient aussi partie des outils. Les films étaient ensuite découpés et assemblés pour former les maquettes des pages. S’il manquait un mot, ou si un paragraphe devait être ajouté, on découpait le texte aux ciseaux, on intégrait le passage manquant que l’on collait. C’est bien de là que vient l’expression «couper» et «coller», que l’on retrouve encore dans les traitements de texte aujourd’hui.
 
