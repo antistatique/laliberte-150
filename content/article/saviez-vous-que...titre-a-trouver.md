@@ -35,8 +35,9 @@ Lors de la disparition du supplément, liée à la baisse publicitaire, l’appr
 **14 juin 1996**. _La Liberté_ se branche sur internet. Pour l’événement, Claude Chuard, rédacteur en chef adjoint, signe même un éditorial expliquant l’intention du quotidien, qui voulait simplement vivre avec son temps. «Il désire participer, à son échelle, à une des aventures les plus excitantes de cette fin de siècle en matière de communication.»
 
 ![Voici à qui ressemblait le site web de La Liberté à ses débuts](/images/capture-d-ecran-2021-09-29-a-17-55-05.png "Voici à qui ressemblait le site web de La Liberté à ses débuts")
-
-(LEGENDE) Voici à qui ressemblait le site web de _La Liberté_ à ses débuts
+{{% legend %}}
+Voici à qui ressemblait le site web de <i>La Liberté</i> à ses débuts
+{{% /legend %}}
 
 En tapant www.laliberte.ch sur son clavier d’ordinateur, comme le précisait l’édito, le lecteur découvrait une offre limitée: cinq rubriques (éditorial avec article de fond, magazine, sport, sortir et petites annonces). Un typographe était chargé de la mise en ligne des articles. La phase, expérimentale, a duré.
 

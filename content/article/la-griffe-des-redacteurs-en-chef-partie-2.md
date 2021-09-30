@@ -25,7 +25,9 @@ videos_cover = ""
 S’il est le premier laïc à diriger _La Liberté_ depuis 1906, son cahier des charges reste cependant soumis à l’approbation de l’évêque, tandis qu’on lui impose un rédacteur ecclésiastique pour les pages religieuses. Réticente à l’ouverture insufflée par le concile Vatican II, la rédaction, emmenée par Pochon, entre en conflit avec les sœurs de Saint-Paul, qui se plaignent déjà de la mainmise du parti. Peu à peu, Pochon tente de recentrer le journal sur le canton, avec la volonté d’en faire le «miroir de la vie fribourgeoise». Mais son projet de bureau à Bulle, supposé élargir l’audience du journal en Gruyère, échoue. Surtout, _La Liberté_ souffre de son image d’organe partisan, qui peine à intéresser les jeunes, ce que révèle un tirage quotidien stagnant autour de 20'000 exemplaires.»
 
 ![Roger Pochon (3ème depuis la droite) et son équipe rédactionnelle en 1951. Au centre, en bout de table, Madeleine Butignot, première rédactrice de La Liberté](/images/redaction1951.jpg "Roger Pochon (3ème depuis la droite) et son équipe rédactionnelle en 1951. Au centre, en bout de table, Madeleine Butignot, première rédactrice de La Liberté")  
-(LEGENDE) Roger Pochon (3ème depuis la droite) et son équipe rédactionnelle en 1951. Au centre, en bout de table, Madeleine Butignot, première rédactrice de _La Liberté_
+{{% legend %}}
+Roger Pochon (3ème depuis la droite) et son équipe rédactionnelle en 1951. Au centre, en bout de table, Madeleine Butignot, première rédactrice de <i>La Liberté</i>
+{{% /legend %}}
 
 ### 5. Le grand tournant (1970 – 1990)
 
