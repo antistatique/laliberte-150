@@ -7,6 +7,7 @@ cover = "/images/schorderet.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = "/images/redac.jpg"
 images = []
 landscape_banner = false
 order = 3
