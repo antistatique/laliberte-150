@@ -66,6 +66,8 @@ Pour le centenaire de _La Liberté_, en 1971, [un «panorama littéraire» est p
 
 Cette seconde moitié de siècle voit les pages de _La Liberté_ s’ouvrir plus largement à la littérature romande, que ce soit pour saluer le triomphe parisien d’un Jacques Chessex ou pour discuter l’œuvre d’un Maurice Chappaz par exemple. En 1992, la [transformation de _La Liberté-dimanche_ en véritable magazine culturel](https://www.e-newspaperarchives.ch/?a=d&d=LLE19920525-01&e=-------fr-20--1--img-txIN--------0-----) fixe durablement la place de la critique littéraire, qui se voit dès lors consacrer une pleine page hebdomadaire où les littératures d’ici et d’ailleurs sont également traitées – avec un regard particulier porté sur les auteurs du cru, à l’image de [Jean-François Haas](https://www.e-newspaperarchives.ch/?a=d&d=LLE20121201-01.2.179&e=-------fr-20-LLE-1--img-txIN-Jean%252DFran%c3%a7ois+Haas-------0-----). Cette page du samedi continue jusqu’à aujourd’hui de poser sur la création littéraire un regard critique. Désormais, ce sont plus de 200 ouvrages qui y sont chroniqués chaque année, dans tous les genres, roman, poésie, bande dessinée ou livres jeunesse.
 
+![](/images/capture-d-ecran-2021-09-30-a-16-41-00.jpg)
+
 ***
 
 ### _Proust, cet inconnu_
