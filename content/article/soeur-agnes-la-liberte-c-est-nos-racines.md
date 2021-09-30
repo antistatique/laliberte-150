@@ -22,7 +22,7 @@ La Congrégation des Sœurs de Saint-Paul est toujours propriétaire majoritaire
 
 **Quel est votre lien avec _La Liberté_?**
 
-**Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que [la Congrégation des Sœurs de Saint-Paul a été fondée](https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/). _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
+**Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que [la Congrégation des Sœurs de Saint-Paul a été fondée](https://150ans.lalib.ch/article/debuts-difficiles-et-conflits-sociaux/). _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
 
 {{% number number-big="70" class="eiko" %}} Le nombre de soeurs membres de l'Oeuvre de Saint-Paul en 1878 {{% /number %}}
 
@@ -47,6 +47,6 @@ Tous les cinq ans, nous prenons le temps d’un bilan, nous élaborons des persp
 
 **Comment envisagez-vous l’avenir de votre congrégation?**
 
-Notre avenir dépend de notre foi dans le Christ mort et ressuscité et de l’amour que nous avons les unes pour les autres. Cette année 2021, nous avons célébré l’engagement définitif de cinq sœurs vietnamiennes et d’une sœur malgache; trois Burundaises et deux Malgaches feront bientôt leurs premiers vœux. Il y a donc encore des jeunes femmes qui répondent à l’appel du Christ. Nous sommes 110, réparties dans cinq pays, dont une quarantaine ici à Fribourg. Même si le tronc est vieillissant, il y a toujours de nouvelles branches dans lesquelles coule la même sève.
+Notre avenir dépend de notre foi dans le Christ mort et ressuscité et de l’amour que nous avons les unes pour les autres. Cette année 2021, nous avons célébré l’engagement définitif de cinq sœurs vietnamiennes et d’une sœur malgache; trois Burundaises et deux Malgaches feront bientôt leurs premiers vœux. Il y a donc encore des jeunes femmes qui répondent à l’appel du Christ. [Nous sommes 110, réparties dans cinq pays](https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/), dont une quarantaine ici à Fribourg. Même si le tronc est vieillissant, il y a toujours de nouvelles branches dans lesquelles coule la même sève.
 
 ***
