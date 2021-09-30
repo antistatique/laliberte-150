@@ -1,8 +1,8 @@
 +++
 author = "Aurélie Lebreau, François Mauron, Sevan Pearson"
-banner = "/images/musy_600.jpg"
-banner_hd = "/images/musy_1700.jpg"
-banner_thumb = "/images/musy_200.jpg"
+banner = "/images/musy_600x824.jpg"
+banner_hd = "/images/musy_1700x2335.jpg"
+banner_thumb = "/images/musy_200x275.jpg"
 cover = "/images/musy_1200.jpg"
 date = ""
 date_display = ""
