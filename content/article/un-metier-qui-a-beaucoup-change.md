@@ -10,7 +10,7 @@ featured = false
 images = []
 landscape_banner = true
 order = 10
-reading_time = "6 min"
+reading_time = "3 min"
 summary = "Rencontre avec André Streuli, un typographe qui a vécu le passage du plomb à la photocomposition. L’évolution technologique a nécessité l’adaptation rapide d’une profession"
 title = "Un métier qui a beaucoup changé"
 title_style = "formula"
@@ -21,6 +21,8 @@ videos_cover = ""
 Pour André Streuli, _La Liberté_ n’est pas un journal comme les autres: il y a passé 31ans de sa vie professionnelle. Engagé en 1966 comme compositeur-typographe, André Streuli a connu le plomb. Agé aujourd’hui de 89ans, il replonge dans ses souvenirs pour évoquer une ère que peu d’entre nous ont connue. Il a vécu trois étapes importantes dans l’évolution de sa profession de typographe. «Mon métier a beaucoup changé depuis mes débuts», relève-t-il.
 
 Mais avant d’arriver à _La Liberté_, il s’est lancé dans le métier en effectuant un apprentissage à la rue du Botzet, à Fribourg, pour composer et imprimer le Greffon, entre 1948 et 1952. «C’était un journal agricole», se souvient-il. Chaque caractère de plomb était alors aligné à la main sur un petit support appelé composteur, puis sur une plaque afin de réaliser les pages du journal. «Les plus expérimentés et les plus rapides arrivaient à un rythme de 5000 signes à l’heure.»
+
+![](/images/doc09898720210924004513.jpg)
 
 Après un début de carrière où il a travaillé notamment pour les Imprimeries réunies à Lausanne, il est arrivé à _La Liberté_ pour travailler sur une Linotype. C’est une machine disposant d’un clavier spécial sur lequel le typographe tape le texte qui lui est transmis sur une feuille de papier. Cet engin dispose d’un réservoir où le plomb entre en fusion. Les lettres de plomb sont ainsi fabriquées au fur et à mesure et mises en place sur une plaque grâce à une mécanique complexe.
 
@@ -37,6 +39,8 @@ Il profite donc de l’occasion pour expliquer la composition à la main. Il se 
 
 Quelles qualités fallait-il pour être typographe? «Il fallait surtout être bon en orthographe et en grammaire, mais aussi être capable de résister au stress, être précis et avoir une bonne capacité de concentration», répond André Streuli. «J’ai toujours beaucoup aimé la langue française.»
 
+![](/images/formulegraphique1992_vm_02.jpg)
+
 A _La Liberté_, il a travaillé durant 31ans pour le service de nuit. «Je commençais à 18h et je finissais à minuit et demi.» Ces horaires lui ont permis de mieux voir grandir ses enfants. «Je m’occupais de les envoyer à l’école le matin et du repas de midi, car leur maman travaillait la journée.»
 
 ### Dernière ligne de plomb
@@ -46,6 +50,8 @@ Il se souvient très clairement de la date de la dernière ligne de plomb compos
 {{% number number-big="5'000" class="eiko" %}} signes alignés à l'heure sur les Linotypes, pour les plus rapides {{% /number %}}
 
 «Ce qui a fondamentalement changé, c’est le rythme de production», commente André Streuli. L’évolution technologique a permis à chaque employé d’augmenter le volume de texte traité. «Alors qu’avec le montage du plomb à la main, les plus rapides alignaient 5000 signes à l’heure, avec une Linotype c’était plutôt autour des 12'000 signes, et avec la photocomposition, on arrivait à un peu plus de 20'000 signes à l’heure», compare André Streuli.
+
+![](/images/laliberte_170921awi_01.jpg)
 
 ***
 

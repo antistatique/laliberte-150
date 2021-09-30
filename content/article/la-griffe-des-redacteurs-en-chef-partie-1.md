@@ -1,8 +1,8 @@
 +++
 author = "Pascal Fleury"
-banner = "/images/sch_600.jpg"
-banner_hd = "/images/sch_1700.jpg"
-banner_thumb = "/images/sch_200.jpg"
+banner = "/images/sch_600x824.jpg"
+banner_hd = "/images/sch_1700x2335.jpg"
+banner_thumb = "/images/sch_200x275.jpg"
 cover = "/images/sch_1200.jpg"
 date = ""
 date_display = ""
