@@ -1,8 +1,8 @@
 +++
 author = "François Mauron"
-banner = "/images/python_600.jpg"
-banner_hd = "/images/python_1700.jpg"
-banner_thumb = "/images/python_200.jpg"
+banner = "/images/python_1700_600x824.jpg"
+banner_hd = "/images/python_1700_1700x2335.jpg"
+banner_thumb = "/images/python_1700_200x275.jpg"
 cover = "/images/python_1200.jpg"
 date = ""
 date_display = ""
