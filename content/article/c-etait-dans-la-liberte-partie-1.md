@@ -22,7 +22,7 @@ videos_cover = ""
 
 Victor Hugo décède le 22 mai 1885, à Paris. Quatre jours plus tard, des obsèques nationales lui sont accordées. Son cercueil est exposé une nuit durant sous l’Arc de Triomphe et le 1er juin, près de deux millions de personnes l’accompagnent au Panthéon, sa dernière demeure – à titre d’exemple, l’artiste et résistante Joséphine Baker, décédée le 12 avril 1975, devrait intégrer l’illustre bâtiment le 30 novembre prochain…
 
-{{% archive href="https://www.laliberte.ch/media/document/42/lle_18850524_0001.pdf" target="_blank" title="Victor Hugo" date="24/05/1885" image="/images/capture-d-ecran-2021-09-29-a-19-03-34.png" %}} ddd{{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/lle_18850524_0001.pdf" target="_blank" title="Victor Hugo" date="24/05/1885" image="/images/capture-d-ecran-2021-09-29-a-19-03-34.png" %}}{{% /archive %}}
 
 En cette fin du XIXe siècle, la France est donc efficace et unanime derrière son monument littéraire qui, en plus de ses œuvres, s’est engagé politiquement et socialement et a connu l’exil. _La Liberté_, alors un «journal quotidien politique et religieux», voit la disparition du Français d’un tout autre œil. Nettement moins amène. Certes, le dimanche 24 mai 1885, elle consacre sa Une à l’auteur des Misérables, sous le titre le plus concis qui soit: Victor Hugo. Mais dès la seconde phrase d’un long article (malheureusement pas signé), l’on sent bien que le lettré va en prendre pour son grade. «Devant le lit de mort de ce poète qui fut grand par les dons de l’esprit, plus, hélas! que par les qualités de l’âme et du cœur, devant ce lit que la religion n’a point visité, devant ces restes que la croix ne protège point de ses consolations, de ses espérances et de ses réparations, le chrétien s’épouvante en songeant aux lacunes, aux défaillances et aux chutes de cette longue existence, enivrée de succès et chargée de responsabilités.»
 
@@ -37,7 +37,7 @@ En cette fin du XIXe siècle, la France est donc efficace et unanime derrière 
 
 «La catastrophe s’est produite par 41°46 de latitude nord et 50°14 de longitude ouest, dimanche, à 10h25 du soir (heure de New York), environ 3h du matin (heure de l’Europe centrale).» Ainsi débute l’article de _La Liberté_ du mercredi 17 avril 1912 rapportant le naufrage du Titanic. L’accident fait l’objet de la Une du journal et est relaté dans un très long texte, découpé en plusieurs sections qui abordent des thèmes différents.
 
-{{% archive href="https://www.laliberte.ch/media/document/42/titanic.pdf" target="_blank" title="La catastrophe du "Titanic" date="17/04/1912" image="/images/capture-d-ecran-2021-09-30-a-08-57-52.png" %}} ddd{{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/titanic.pdf" target="_blank" title="La catastrophe du "Titanic" date="17/04/1912" image="/images/capture-d-ecran-2021-09-30-a-08-57-52.png" %}} }{{% /archive %}}
 
 Dans le premier paragraphe, on apprend encore que le navire se trouvait à 300 miles au sud-est de Cape-Race et qu’il a sombré à 2h20 du matin, soit quatre heures après la collision. Aujourd’hui, aucun journal ne donnerait des indications géographiques aussi précises, avec latitude et longitude. En revanche, la cause du naufrage serait mentionnée très rapidement: la collision avec un iceberg.
 
@@ -55,7 +55,7 @@ Un peu plus loin apparaît un descriptif très détaillé du paquebot. Cela n’
 
 Pour l'une des toutes premières fois dans l’histoire du journal, un article rédactionnel est illustré par une photo. Dans la presse, de manière générale, c’est très rare en ce début de XXe siècle. Mais ce 11 décembre 1919, dans une seconde édition qui paraît le jour même de l’élection, _La Liberté_ marque le coup pour l’accession du premier Fribourgeois au Conseil fédéral. Un texte en page Une, sobrement intitulé «M. Musy conseiller fédéral», accompagné par un portrait du politicien, relate ces heures historiques pour le canton. S’il est précédé d’un autre sujet évoquant «la grande indécision au sujet de la Russie», l’article, qui n’est pas signé – c’est presque toujours le cas à cette époque – occupe trois pleines colonnes et déborde sur la deuxième page.
 
-{{% archive href="https://www.laliberte.ch/media/document/42/musy.pdf" target="_blank" title="M. MUSY conseiller fédéral" date="11/12/1919" image="/images/capture-d-ecran-2021-09-30-a-09-01-24.png" %}}  ddd{{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/musy.pdf" target="_blank" title="M. MUSY conseiller fédéral" date="11/12/1919" image="/images/capture-d-ecran-2021-09-30-a-09-01-24.png" %}}{{% /archive %}}
 
 Le texte, curieusement, ne parle pas de l’élection proprement dite qui s’est déroulée aux Chambres fédérales et ne donne même pas le résultat du scrutin. Il s’agit plutôt d’un long rappel de la carrière de Jean-Marie Musy, mise en perspective dans le contexte politique de l’époque. Ainsi, relate le rédacteur, «le bruit circulait» que M. Musy «pourrait être élu» au Conseil fédéral. «Mais le tour de Fribourg d’avoir un représentant dans l’Autorité exécutive avait été tant de fois prétérité par le jeu des circonstances, ou par la malignité des hommes, que l’opinion restait, chez nous, un peu sceptique sur les chances que nous avions de fournir enfin un conseiller fédéral», souligne-t-il.
 
@@ -67,7 +67,7 @@ L’article explique ensuite que le bouleversement de la Première Guerre mondia
 
 On aurait pu s’attendre à ce que l’invasion allemande des Pays-Bas, de la Belgique, du Luxembourg et de la France, le 10 mai 1940, donne lieu à un article en Une de _La Liberté_. Or ce n’est qu’en deuxième page qu’est publié un véritable dossier sur le sujet, qui débute ainsi: «Le front d’Occident, immobile depuis neuf mois, est entré en mouvement. Le duel à mort engagé entre l’Allemagne et la coalition franco-anglaise est maintenant dans la phase décisive.» Depuis septembre 1939 et l’invasion de la Pologne par la Wehrmacht, Allemands et Alliés se faisaient face sans combattre dans l’ouest de l’Europe dans ce que l’on a appelé la «drôle de guerre».
 
-{{% archive href="https://www.laliberte.ch/media/document/42/lle_19400510_0001.pdf" target="_blank" title="L'invasion de la France" date="10/05/1940" image="/images/capture-d-ecran-2021-09-30-a-09-05-00.png" %}}fsd {{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/lle_19400510_0001.pdf" target="_blank" title="L'invasion de la France" date="10/05/1940" image="/images/capture-d-ecran-2021-09-30-a-09-05-00.png" %}}{{% /archive %}}
 
 Fait marquant, l’utilisation du «nous» dans l’article, particulièrement engagé. Plusieurs formulations dénoncent l’attaque allemande contre des Etats neutres. «Le sort tragique de la Hollande et de la Belgique a un écho particulièrement douloureux chez le peuple suisse, qui se sent très proche, par l’esprit et le cœur, de ces populations pacifiques, honnêtes, laborieuses, éprises comme lui des idées d’honneur et de liberté et animées du même désir d’entente internationale.»
 
