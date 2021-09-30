@@ -30,7 +30,6 @@ Tél. 026 426 44 11 – Fax 026 426 44 00
 
 * **Rédacteur en chef:** Serge Gumy (SG)
 * **Rédacteurs**: resp. François Mauron (FM) et Patricia Morand (PAM). Camille Besse (CB), Stéphanie Buchs (SB), Pascal Fleury (PFY), Elisabeth Haas (EH), Aurélie Lebreau (AL), Sevan Pearson (SP), Velia Ferracini, Thierry Raboud (TR).
-* **Infographies**: Florence Cerouter (FC).
 * **Dessin de presse:** Alex Ballaman (AB).
 * **Mise en page supplément papier:** Julie Rudaz (JR), Florence Cerouter (FC), Stéphane Leo, Patrick Thoos.
 * **Photos:** Charly Rappo (CR), Alain Wicht (AWI).
