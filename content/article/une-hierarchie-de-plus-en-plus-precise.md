@@ -1,9 +1,9 @@
 +++
 author = "Patricia Morand"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/lib-600.jpg"
+banner_hd = "/images/lib-1700.jpg"
+banner_thumb = "/images/lib-200.jpg"
+cover = "/images/1200.jpg"
 date = ""
 date_display = ""
 featured = false
