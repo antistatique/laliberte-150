@@ -41,13 +41,15 @@ Le 22 novembre 1963, le président américain John Fitzgerald Kennedy est assas
 
 Les deux pages publiées le même jour sur cette «mort tragique», signées essentiellement par les agences de presse, impressionnent par la richesse des témoignages: «Du sang coulait de la tête de M. Kennedy, tandis que son épouse, qui était à son côté, s’accrochait à lui en criant: «Oh! Non, ça n’est pas possible!» Ou, plus loin: «Deux prêtres ont été appelés au chevet du président, qui a reçu les derniers sacrements.» Le quotidien annonce déjà nommément l’arrestation du suspect Lee Harvey Oswald, évoquant ses liens avec l’URSS. Il décrit dans le détail cet «assassinat minutieusement préparé» et publie même une photo de la voiture présidentielle lors de l’attentat. A croire que tout avait été orchestré bien à l’avance… y compris la couverture médiatique.
 
-{{% archive href="https://www.laliberte.ch/media/document/42/kennedy.pdf" target="_blank" title="Le président Kennedy meurt victime d'un attentat" date="24/11/1963" image="/images/archive.png" %}} Description {{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/kennedy.pdf" target="_blank" title="Le président Kennedy meurt victime d'un attentat" date="24/11/1963" image="/images/capture-d-ecran-2021-09-30-a-09-21-32.png" %}}  {{% /archive %}}
 
 ***
 
 #### 1969: La «conquête» de la Lune
 
 Le lundi 21 juillet 1969, à 3h56, alors que le «vélonaute» Eddy Merckx vient de remporter pour la première fois le Tour de France, les Américains posent le pied sur la Lune. _La Liberté_, qui suit dans le détail l’aventure d’Apollo-11 depuis son lancement le 16 juillet du Centre spatial Kennedy, se montre emphatique: «L’homme, déjà maître de la Terre, a conquis une nouvelle planète. Neil Armstrong, commandant du vol Apollo, est descendu sur la Lune, en a foulé le sol et en a pris possession au nom de l’humanité. (…) La Lune désormais appartient à l’homme. Ni apprivoisée, ni domestiquée encore, elle est néanmoins conquise.» Ce discours conquérant, au ton surprenant, s’inscrit évidemment dans le contexte très tendu de la guerre froide.
+
+{{% archive href="https://www.laliberte.ch/media/document/42/lune.pdf" target="_blank" title="Les conquérants de la lune" date="12/02/1985" image="/images/archive.png" %}} Description {{% /archive %}}
 
 Dans les pages consacrées aux astronautes – que _La Liberté_ appelle encore «cosmonautes» (!) – le quotidien fribourgeois s’inquiète ainsi à plusieurs reprises de la mission soviétique simultanée Luna-15, dont le vol circumlunaire pourrait mettre en péril l’alunissage du module lunaire américain (LEM). _La Liberté_ revient également sur la citation «forcément historique» d’Armstrong, «L’Aigle a atterri!», prononcée au premier contact du LEM dans la poussière lunaire de la mer de la Tranquillité. Pour le journal, qui relaie l’AFP, «c’est bien sûr l’aigle royal des Rocheuses, l’emblème des Etats-Unis, mais il porte dans ses serres, rappelle-t-on à Houston, une plaque de paix au nom de l’humanité tout entière».
 
