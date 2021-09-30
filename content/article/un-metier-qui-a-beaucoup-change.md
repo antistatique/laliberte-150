@@ -20,6 +20,8 @@ videos_cover = ""
 +++
 Pour André Streuli, _La Liberté_ n’est pas un journal comme les autres: il y a passé 31ans de sa vie professionnelle. Engagé en 1966 comme compositeur-typographe, André Streuli a connu le plomb. Agé aujourd’hui de 89ans, il replonge dans ses souvenirs pour évoquer une ère que peu d’entre nous ont connue. Il a vécu trois étapes importantes dans l’évolution de sa profession de typographe. «Mon métier a beaucoup changé depuis mes débuts», relève-t-il.
 
+sa
+
 Mais avant d’arriver à _La Liberté_, il s’est lancé dans le métier en effectuant un apprentissage à la rue du Botzet, à Fribourg, pour composer et imprimer le Greffon, entre 1948 et 1952. «C’était un journal agricole», se souvient-il. Chaque caractère de plomb était alors aligné à la main sur un petit support appelé composteur, puis sur une plaque afin de réaliser les pages du journal. «Les plus expérimentés et les plus rapides arrivaient à un rythme de 5000 signes à l’heure.»
 
 ![](/images/doc09898720210924004513.jpg)
