@@ -3,7 +3,7 @@ author = "Patricia Morand"
 banner = "/images/blanc_600x824.jpg"
 banner_hd = "/images/blanc_1700x2335.jpg"
 banner_thumb = "/images/blanc_200x275.jpg"
-cover = "/images/blanc_1200.jpg"
+cover = "/images/blanc_1200-1.jpg"
 date = ""
 date_display = ""
 featured = false
@@ -52,7 +52,7 @@ La concurrence de _La Tribune/Le Matin_ a constitué une sacrée motivation. Je 
 
 ### Des dessins avant les photos
 
-Les dessins d’Alex, depuis 1999, font l’unanimité. Ou presque. N’y en aurait-il point comme lui? Le coup de crayon du Broyard est apprécié et ses interventions attendues. Avant la naissance d’Alexandre Ballaman, La Liberté avait déjà ouvert ses pages aux dessinateurs. Le premier caricaturiste officiel a été Pécub (1979-1990). Mais, à la fin des années soixante, le feuilleton dessiné «Petzi, Riki et Pingo» était par exemple déjà proposé. Dans l’ordre chronologique, il est intéressant de noter que les dessins précèdent la publication de photographies.
+Les dessins d’Alex, depuis 1999, font l’unanimité. Ou presque. N’y en aurait-il point comme lui? Le coup de crayon du Broyard est apprécié et ses interventions attendues. Avant la naissance d’Alexandre Ballaman, _La Liberté_ avait déjà ouvert ses pages aux dessinateurs. Le premier caricaturiste officiel a été Pécub (1979-1990). Mais, à la fin des années soixante, le feuilleton dessiné «Petzi, Riki et Pingo» était par exemple déjà proposé. Dans l’ordre chronologique, il est intéressant de noter que les dessins précèdent la publication de photographies.
 
 Des photos, d’ailleurs, parlons-en! Des photos en couleur qui se transmettent d’un simple clic ou des infographies enregistrées directement dans le système: comme le contenu rédactionnel, le contenu visuel actuel n’a plus rien à voir avec ce qui existait durant le premier centenaire. La grosse évolution a eu lieu en 1981 avec le passage à la quadrichromie. Le pas du tout en couleur a été franchi en 2006-2007. Longtemps, le noir et blanc était la règle. Photos ou illustrations ont commencé à égayer les annonces au début du XXe siècle. Le portrait d’André Bovet, fraîchement nommé Evêque de Lausanne et Genève, a paru en Une du journal le 27 novembre 1911: une révolution, toutes les éditions n’ayant contenu que des lettres ou des chiffres auparavant.
 
