@@ -1,8 +1,8 @@
 +++
 author = "Pascal Fleury"
-banner = "/images/gumy-1700.jpg"
-banner_hd = "/images/gumy-1700.jpg"
-banner_thumb = "/images/gumy200.jpg"
+banner = "/images/gumy_600x824.jpg"
+banner_hd = "/images/gumy1700x2335.jpg"
+banner_thumb = "/images/gumy_200x275.jpg"
 cover = "/images/gumy-1200.jpg"
 date = ""
 date_display = ""

@@ -18,7 +18,7 @@ videos = ""
 videos_cover = ""
 
 +++
-C’est dans un contexte tourmenté qu’est publié le premier numéro de _La Liberté_, le dimanche 1er octobre 1871. En Europe, mais aussi en Suisse, une guerre religieuse (_Kulturkampf_) fait rage. «La mise sous pression d’une Eglise romaine affirmant sa primauté et l’infaillibilité de son chef face au rationalisme, au libéralisme et au nationalisme nourrit une réaction d’assiégés chez ses fidèles», écrit François Python dans l’ouvrage consacré aux 150 ans de _La Liberté_. Parmi eux, l’abbé Joseph Schorderet – ordonné prêtre en 1866 – joue un rôle central dans les premiers pas de ce nouveau journal catholique à Fribourg.
+C’est [dans un contexte tourmenté](https://150ans.lalib.ch/article/le-reflet-de-l-identite-fribourgeoise/) qu’est publié le premier numéro de _La Liberté_, le dimanche 1er octobre 1871. En Europe, mais aussi en Suisse, une guerre religieuse (_Kulturkampf_) fait rage. «La mise sous pression d’une Eglise romaine affirmant sa primauté et l’infaillibilité de son chef face au rationalisme, au libéralisme et au nationalisme nourrit une réaction d’assiégés chez ses fidèles», écrit François Python dans l’ouvrage consacré aux 150 ans de _La Liberté_. Parmi eux, l’abbé Joseph Schorderet – ordonné prêtre en 1866 – joue un rôle central dans les premiers pas de ce nouveau journal catholique à Fribourg.
 
 {{% number number-big="980" class="brik" %}} Le nombre de tirages de La Liberté en 1871 {{% /number %}}
 
@@ -36,7 +36,7 @@ Joseph Schorderet s’inquiète et décide de prendre les devants. Il réunit pl
 
 ![](/images/im_02_be-1-11_sr_clara_pro_fr.jpg)
 
-«A leur arrivée, les ouvriers typographes donnent leur congé, persuadés qu’ils seront rapidement rappelés. Les jeunes femmes prennent leur place et composent le journal qui paraît le jour même, 25 mai 1874, à l’heure habituelle», raconte Anne Philipona dans l’ouvrage consacré aux 150 ans de _La Liberté_. Dans la nuit du 5 au 6 juin 1874, les jeunes femmes prononcent leurs vœux dans le plus grand secret et rejoignent ainsi la Congrégation de Saint-Paul, fondée quelques mois plus tôt par le chanoine Schorderet.
+«A leur arrivée, les ouvriers typographes donnent leur congé, persuadés qu’ils seront rapidement rappelés. Les jeunes femmes prennent leur place et composent le journal qui paraît le jour même, 25 mai 1874, à l’heure habituelle», raconte Anne Philipona dans l’ouvrage consacré aux 150 ans de _La Liberté_. Dans la nuit du 5 au 6 juin 1874, les jeunes femmes prononcent leurs vœux dans le plus grand secret et rejoignent ainsi la [Congrégation de Saint-Paul](https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/), fondée quelques mois plus tôt par le chanoine Schorderet.
 
 «Cette cérémonie est entourée de mystère, parce que la nouvelle Constitution fédérale, acceptée par le peuple et les cantons le 19 avril de la même année mais refusée par les cantons catholiques conservateurs, interdit la création de couvents ou d’ordres religieux», poursuit Anne Philipona. D’ailleurs, officiellement, l’Œuvre de Saint-Paul prend le nom de Société d’ouvrières typographes. Même si les débuts sont difficiles pour les sœurs, leur nombre s’accroît, passant de sept en 1874 à 70 en 1878. Ce n’est toutefois qu’en 1892 qu’elles deviennent propriétaires du journal.
 
