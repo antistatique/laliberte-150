@@ -1,5 +1,5 @@
 +++
-cover = "/images/cover_a_propos.jpg"
+cover = "/images/edito-1200.jpg"
 date = "2021-08-02T09:15:38.000+00:00"
 summary = ""
 title = "A propos"
