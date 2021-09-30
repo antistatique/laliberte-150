@@ -1,7 +1,7 @@
 +++
 author = "Pascal Fleury"
-banner = "/images/gumy-600.jpg"
-banner_hd = "/images/gumy-1700.jpg"
+banner = "/images/gumy200.jpg"
+banner_hd = "/images/gumy200.jpg"
 banner_thumb = "/images/gumy200.jpg"
 cover = "/images/gumy-1200.jpg"
 date = ""
