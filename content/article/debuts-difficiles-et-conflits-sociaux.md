@@ -7,6 +7,7 @@ cover = "/images/debuts_1200.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = ""
 images = []
 landscape_banner = false
 order = 2
@@ -18,7 +19,7 @@ videos = ""
 videos_cover = ""
 
 +++
-C’est [dans un contexte tourmenté](https://150ans.lalib.ch/article/le-reflet-de-l-identite-fribourgeoise/) qu’est publié le premier numéro de _La Liberté_, le dimanche 1er octobre 1871. En Europe, mais aussi en Suisse, une guerre religieuse (_Kulturkampf_) fait rage. «La mise sous pression d’une Eglise romaine affirmant sa primauté et l’infaillibilité de son chef face au rationalisme, au libéralisme et au nationalisme nourrit une réaction d’assiégés chez ses fidèles», écrit François Python dans l’ouvrage consacré aux 150 ans de _La Liberté_. Parmi eux, l’abbé Joseph Schorderet – ordonné prêtre en 1866 – joue un rôle central dans les premiers pas de ce nouveau journal catholique à Fribourg.
+C’est <a href="https://150ans.lalib.ch/article/le-reflet-de-l-identite-fribourgeoise/" target="_blank">dans un contexte tourmenté</a> qu’est publié le premier numéro de _La Liberté_, le dimanche 1er octobre 1871. En Europe, mais aussi en Suisse, une guerre religieuse (_Kulturkampf_) fait rage. «La mise sous pression d’une Eglise romaine affirmant sa primauté et l’infaillibilité de son chef face au rationalisme, au libéralisme et au nationalisme nourrit une réaction d’assiégés chez ses fidèles», écrit François Python dans l’ouvrage consacré aux 150 ans de _La Liberté_. Parmi eux, l’abbé Joseph Schorderet – ordonné prêtre en 1866 – joue un rôle central dans les premiers pas de ce nouveau journal catholique à Fribourg.
 
 {{% number number-big="980" class="brik" %}} Le nombre de tirages de «La Liberté» en 1871 {{% /number %}}
 
@@ -36,7 +37,7 @@ Joseph Schorderet s’inquiète et décide de prendre les devants. Il réunit pl
 
 ![](/images/im_02_be-1-11_sr_clara_pro_fr.jpg)
 
-«A leur arrivée, les ouvriers typographes donnent leur congé, persuadés qu’ils seront rapidement rappelés. Les jeunes femmes prennent leur place et composent le journal qui paraît le jour même, 25 mai 1874, à l’heure habituelle», raconte Anne Philipona dans l’ouvrage consacré aux 150 ans de _La Liberté_. Dans la nuit du 5 au 6 juin 1874, les jeunes femmes prononcent leurs vœux dans le plus grand secret et rejoignent ainsi la [Congrégation de Saint-Paul](https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/), fondée quelques mois plus tôt par le chanoine Schorderet.
+«A leur arrivée, les ouvriers typographes donnent leur congé, persuadés qu’ils seront rapidement rappelés. Les jeunes femmes prennent leur place et composent le journal qui paraît le jour même, 25 mai 1874, à l’heure habituelle», raconte Anne Philipona dans l’ouvrage consacré aux 150 ans de _La Liberté_. Dans la nuit du 5 au 6 juin 1874, les jeunes femmes prononcent leurs vœux dans le plus grand secret et rejoignent ainsi la <a href="https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/" target="_blank">Congrégation de Saint-Paul</a>, fondée quelques mois plus tôt par le chanoine Schorderet.
 
 «Cette cérémonie est entourée de mystère, parce que la nouvelle Constitution fédérale, acceptée par le peuple et les cantons le 19 avril de la même année mais refusée par les cantons catholiques conservateurs, interdit la création de couvents ou d’ordres religieux», poursuit Anne Philipona. D’ailleurs, officiellement, l’Œuvre de Saint-Paul prend le nom de Société d’ouvrières typographes. Même si les débuts sont difficiles pour les sœurs, leur nombre s’accroît, passant de sept en 1874 à 70 en 1878. Ce n’est toutefois qu’en 1892 qu’elles deviennent propriétaires du journal.
 
@@ -46,6 +47,6 @@ Les journées de travail sont longues et se font en silence, ponctuées de momen
 
 **Pour en savoir plus:**
 
-* Ruffieux, Roland (dir.), _1871-1971._ [_La Liberté en son premier siècle_](https://bcufr.swisscovery.slsp.ch/discovery/fulldisplay?docid=cdi_persee_primary_oai_persee_article_assr_0335_5985_1978_num_46_2_2168_t1_0300_0000_1&context=PC&vid=41SLSP_BCUFR:DFR&lang=fr&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=41SLSP_BCUFR_MyInst_and_CI&query=any,contains,La%20Libert%C3%A9%20en%20son%20premier%20si%C3%A8cle), Fribourg: Saint-Paul, 1975.
-* Barthélemy, Dominique_, [Diffuser au lieu d’interdire_. _Le chanoine Schorderet_](https://bcufr.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991016354429705509&context=L&vid=41SLSP_BCUFR:DFR&lang=fr&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=41SLSP_BCUFR_MyInst_and_CI&query=any,contains,Diffuser%20au%20lieu%20d%E2%80%99interdire_.%20Le%20chanoine%20Schorderet&offset=0) _(1840-1893)_, Fribourg/Paris: Saint-Paul et Fribourg: Editions universitaires, 1993.
-* [_Les conquêtes de La Liberté. Les 150 ans du quotidien fribourgeois_](https://www.laliberte.ch/page/-les-conquetes-de-la-liberte-le-livre-des-150-ans-de-la-liberte-610089), collectif. Fribourg: media f SA, 2021.
+* Ruffieux, Roland (dir.), _1871-1971._ <a href="https://bcufr.swisscovery.slsp.ch/discovery/fulldisplay?docid=cdi_persee_primary_oai_persee_article_assr_0335_5985_1978_num_46_2_2168_t1_0300_0000_1&context=PC&vid=41SLSP_BCUFR:DFR&lang=fr&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=41SLSP_BCUFR_MyInst_and_CI&query=any,contains,La%20Libert%C3%A9%20en%20son%20premier%20si%C3%A8cle"_blank">_La Liberté en son premier siècle_</a>, Fribourg: Saint-Paul, 1975.
+* Barthélemy, Dominique_, <a href="https://bcufr.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991016354429705509&context=L&vid=41SLSP_BCUFR:DFR&lang=fr&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=41SLSP_BCUFR_MyInst_and_CI&query=any,contains,Diffuser%20au%20lieu%20d%E2%80%99interdire_.%20Le%20chanoine%20Schorderet&offset=0" target="_blank">_Diffuser au lieu d’interdire: Le chanoine Schorderet_</a> _(1840-1893)_, Fribourg/Paris: Saint-Paul et Fribourg: Editions universitaires, 1993.
+* <a href="https://www.laliberte.ch/page/-les-conquetes-de-la-liberte-le-livre-des-150-ans-de-la-liberte-610089" target="_blank">_Les conquêtes de La Liberté. Les 150 ans du quotidien fribourgeois_</a>, collectif. Fribourg: media f SA, 2021.
