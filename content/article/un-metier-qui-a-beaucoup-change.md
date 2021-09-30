@@ -43,9 +43,7 @@ A _La Liberté_, il a travaillé durant 31ans pour le service de nuit. «Je comm
 
 Il se souvient très clairement de la date de la dernière ligne de plomb composée avec la Linotype à Saint-Paul: «C’était le 1er mai 1981. On est ensuite passé à la photocomposition.» Le plomb a ainsi disparu de tout le processus de mise en page pour laisser place aux machines à écrire spéciales qui imprimaient sur des films photos. Les ciseaux et la colle faisaient aussi partie des outils. Les films étaient ensuite découpés et assemblés pour former les maquettes des pages. S’il manquait un mot, ou si un paragraphe devait être ajouté, on découpait le texte aux ciseaux, on intégrait le passage manquant que l’on collait. C’est bien de là que vient l’expression «couper» et «coller», que l’on retrouve encore dans les traitements de texte aujourd’hui.
 
-#### **5000**
-
-signes alignés à l'heure sur les Linotypes, pour les plus rapides
+{{% number number-big="5'000" class="eiko" %}} signes alignés à l'heure sur les Linotypes, pour les plus rapides {{% /number %}}
 
 «Ce qui a fondamentalement changé, c’est le rythme de production», commente André Streuli. L’évolution technologique a permis à chaque employé d’augmenter le volume de texte traité. «Alors qu’avec le montage du plomb à la main, les plus rapides alignaient 5000 signes à l’heure, avec une Linotype c’était plutôt autour des 12'000 signes, et avec la photocomposition, on arrivait à un peu plus de 20'000 signes à l’heure», compare André Streuli.
 
