@@ -7,6 +7,7 @@ cover = "/images/journalistes_03092021_cr08-1.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = ""
 images = []
 landscape_banner = true
 order = 12
@@ -18,13 +19,13 @@ videos = ""
 videos_cover = ""
 
 +++
-Elles avaient en commun le goût pour l’écriture, la curiosité, l’intérêt pour la nouveauté, l’envie d’apprendre, et aussi parfois le désir de dénoncer des dysfonctionnements et des injustices. Elles furent parmi les premières femmes à travailler comme journalistes à _La Liberté_, à la fin des années septante. Quatre d’entre elles racontent leurs débuts dans un métier surtout pratiqué par des hommes à cette époque. C’est [François Gross](https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-2/), rédacteur en chef à cette période, qui a choisi d’engager ces premières femmes. Toutes sont d’accord sur le fait qu’il leur a fait confiance, tout en étant assez exigeant.
+Elles avaient en commun le goût pour l’écriture, la curiosité, l’intérêt pour la nouveauté, l’envie d’apprendre, et aussi parfois le désir de dénoncer des dysfonctionnements et des injustices. Elles furent parmi les premières femmes à travailler comme journalistes à _La Liberté_, à la fin des années septante. Quatre d’entre elles racontent leurs débuts dans un métier surtout pratiqué par des hommes à cette époque. C’est <a href="https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-2/" target="_blank">François Gross</a>, rédacteur en chef à cette période, qui a choisi d’engager ces premières femmes. Toutes sont d’accord sur le fait qu’il leur a fait confiance, tout en étant assez exigeant.
 
 Anne Dousse, aujourd’hui âgée de 67ans, se souvient avec enthousiasme de ses débuts à _La Liberté_. Engagée en 1977 comme stagiaire à la rubrique régionale, elle affirme: «Je pense que je ne pouvais pas avoir un meilleur stage!» Elle a ensuite travaillé comme journaliste parlementaire pour _La Liberté_, de 1979 à 1981. Anne Dousse a vraiment eu l’impression que François Gross lui a fait confiance dès le début. «C’est lui qui m’a encouragée lorsque j’ai sorti mon premier scoop. Il m’a aussi confié des éditos.» Elle s’est toujours sentie bien accueillie par ses collègues hommes.
 
 ### Ignorer les ragots
 
-Elle se souvient toutefois de bruits de couloirs à Berne: «Quand je décrochais des informations que des collègues n’avaient pas, on entendait dire qu’elle les avait obtenues sur l’oreiller…» Ces ragots ne lui ont pas fait peur pour autant: elle a continué à avancer. Elle a ensuite répondu à l’appel de [Roger de Diesbach](https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-3/), alors rédacteur à _La Tribune_ (ancien _Matin_), et quitté _La Liberté_. Elle a fonctionné comme journaliste parlementaire durant une vingtaine d’années. Et a continué à suivre le quotidien fribourgeois: «_La Liberté_ a toujours été pour moi un journal de référence.» Et de préciser: «Mes deux mentors ont été François Gross et Roger de Diesbach, qui a lui aussi occupé plus tard le poste de rédacteur en chef à _La Liberté_.»
+Elle se souvient toutefois de bruits de couloirs à Berne: «Quand je décrochais des informations que des collègues n’avaient pas, on entendait dire qu’elle les avait obtenues sur l’oreiller…» Ces ragots ne lui ont pas fait peur pour autant: elle a continué à avancer. Elle a ensuite répondu à l’appel de <a href="https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-3/" target="_blank">Roger de Diesbach</a>, alors rédacteur à _La Tribune_ (ancien _Matin_), et quitté _La Liberté_. Elle a fonctionné comme journaliste parlementaire durant une vingtaine d’années. Et a continué à suivre le quotidien fribourgeois: «_La Liberté_ a toujours été pour moi un journal de référence.» Et de préciser: «Mes deux mentors ont été François Gross et Roger de Diesbach, qui a lui aussi occupé plus tard le poste de rédacteur en chef à _La Liberté_.»
 
 > «C’était dur, mais si j’arrêtais, je savais que je n’aurais plus jamais la chance de faire ce métier. J’ai vraiment aimé ma profession»  
 > **Madeleine Joye**
