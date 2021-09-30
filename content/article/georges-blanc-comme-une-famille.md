@@ -16,7 +16,7 @@ title = "Georges Blanc: «Comme  une  famille»"
 title_style = "eiko"
 videos = ""
 videos_cover = ""
-
+footer_image = "/images/timeline_redac.png"
 +++
 Chez lui à Hauteville, Georges Blanc coule une retraite – prise de façon anticipée en fin d’année 2010 – aussi active, et même plus, qu’a été sa vie durant ses 42années à la rédaction de _La Liberté_. Le Gruérien sort son vélo ou ses skis de fond lorsqu’il en a l’occasion, il bûcheronne en forêt et s’occupe également de ses huit petits-enfants avec son épouse. A 73ans, il pratique encore un peu son métier, comme correspondant de boxe. Entré à _La Liberté_ en 1968, issu de la première volée de l’Institut de journalisme de l’Université de Fribourg, il a créé, dirigé et développé la rubrique sportive, qui était quasiment invisible dans les éditions des premières décennies de ce quotidien. Georges Blanc est aussi le plus ancien des membres de la rédaction à pouvoir témoigner. Il a connu le passage de _La Liberté_ à quatre cahiers, celui [du plomb à la photocomposition](https://150ans.lalib.ch/article/un-metier-qui-a-beaucoup-change/) et de la machine à écrire à l’ordinateur.
 

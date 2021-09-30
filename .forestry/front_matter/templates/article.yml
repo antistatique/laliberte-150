@@ -57,6 +57,10 @@ fields:
   name: images
   label: Gallerie
   description: "<strong>Taille </strong><br>Largeur 800px<br>Hauteur 450px"
+- type: file
+  name: footer_image
+  label: Image pleine largeur
+  description: "<strong>Taille </strong><br>Largeur 1800px<br>Hauteur 300px"
 - type: text
   name: videos
   label: 'Vidéo : ID Vimeo'
