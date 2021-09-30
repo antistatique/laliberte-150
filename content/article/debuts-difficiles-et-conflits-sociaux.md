@@ -24,7 +24,7 @@ C’est [dans un contexte tourmenté](https://150ans.lalib.ch/article/le-reflet-
 
 Le religieux entend combattre toute tentative de fonder en Suisse une Eglise nationale soumise à l’Etat et non au pape. Ayant acquis une expérience dans la presse, Joseph Schorderet rêve de fonder un quotidien qui défendrait les catholiques. Il contribue à activer l’Association suisse de Pie IX, qui tient un congrès national à Fribourg les 29 et 30 août 1871. La décision est prise de lancer un quotidien catholique.
 
-Un mois plus tard, le 1er octobre, paraît donc [le premier numéro de La Liberté](https://www.e-newspaperarchives.ch/?a=d&d=LLE18711001-01&e=-------fr-20--1--img-txIN--------0-----). Ce nom souligne l’idée de la liberté collective des catholiques et s’oppose aux doctrines libérales. Les débuts sont modestes et fin 1871, le journal ne tire qu’à 980 exemplaires. Le 29 janvier 1872, une «Société anonyme d’imprimerie suisse catholique» voit le jour. Elle a pour but d’assurer la publication de plusieurs journaux, dont _La Liberté_.
+Un mois plus tard, le 1er octobre, paraît donc <a href="https://www.e-newspaperarchives.ch/?a=d&d=LLE18711001-01&e=-------fr-20--1--img-txIN--------0-----" target="_blank">le premier numéro de La Liberté</a>. Ce nom souligne l’idée de la liberté collective des catholiques et s’oppose aux doctrines libérales. Les débuts sont modestes et fin 1871, le journal ne tire qu’à 980 exemplaires. Le 29 janvier 1872, une «Société anonyme d’imprimerie suisse catholique» voit le jour. Elle a pour but d’assurer la publication de plusieurs journaux, dont _La Liberté_.
 
 ![](/images/capture-d-ecran-2021-09-30-a-14-15-12.png)
 
