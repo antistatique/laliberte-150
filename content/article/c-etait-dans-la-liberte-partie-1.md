@@ -37,7 +37,7 @@ En cette fin du XIXe siècle, la France est donc efficace et unanime derrière 
 
 «La catastrophe s’est produite par 41°46 de latitude nord et 50°14 de longitude ouest, dimanche, à 10h25 du soir (heure de New York), environ 3h du matin (heure de l’Europe centrale).» Ainsi débute l’article de _La Liberté_ du mercredi 17 avril 1912 rapportant le naufrage du Titanic. L’accident fait l’objet de la Une du journal et est relaté dans un très long texte, découpé en plusieurs sections qui abordent des thèmes différents.
 
-{{% archive href="https://www.laliberte.ch/media/document/42/titanic.pdf" target="_blank" title="La catastrophe du Titanic" date="17/04/1912" image="/images/capture-d-ecran-2021-09-30-a-08-57-52.png" %}} }{{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/titanic.pdf" target="_blank" title="La catastrophe du Titanic" date="17/04/1912" image="/images/capture-d-ecran-2021-09-30-a-08-57-52.png" %}} {{% /archive %}}
 
 Dans le premier paragraphe, on apprend encore que le navire se trouvait à 300 miles au sud-est de Cape-Race et qu’il a sombré à 2h20 du matin, soit quatre heures après la collision. Aujourd’hui, aucun journal ne donnerait des indications géographiques aussi précises, avec latitude et longitude. En revanche, la cause du naufrage serait mentionnée très rapidement: la collision avec un iceberg.
 
