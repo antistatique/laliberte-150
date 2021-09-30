@@ -42,6 +42,8 @@ Joseph Schorderet s’inquiète et décide de prendre les devants. Il réunit pl
 
 Les journées de travail sont longues et se font en silence, ponctuées de moments de prière. Une fois leur apprentissage de trois ans terminé, les sœurs reçoivent un salaire, qui est cependant versé sur le compte de l’Œuvre de Saint-Paul. A noter qu’aux côtés des religieuses, du personnel masculin a toujours été présent.
 
+***
+
 **Pour en savoir plus:**
 
 * Ruffieux, Roland (dir.), _1871-1971. La Liberté en son premier siècle_, Fribourg: Saint-Paul, 1975.
