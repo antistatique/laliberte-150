@@ -7,6 +7,7 @@ cover = "/images/agnes_1200-1.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = ""
 images = []
 landscape_banner = false
 order = 15
@@ -22,7 +23,7 @@ La Congrégation des Sœurs de Saint-Paul est toujours propriétaire majoritaire
 
 **Quel est votre lien avec _La Liberté_?**
 
-**Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que [la Congrégation des Sœurs de Saint-Paul a été fondée](https://150ans.lalib.ch/article/debuts-difficiles-et-conflits-sociaux/). _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
+**Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que <a href="[https://www.e-newspaperarchives.ch/?a=d&d=LLE18711001-01&e=-------fr-20--1--img-txIN--------0-----](https://www.e-newspaperarchives.ch/?a=d&d=LLE18711001-01&e=-------fr-20--1--img-txIN--------0----- "https://www.e-newspaperarchives.ch/?a=d&d=LLE18711001-01&e=-------fr-20--1--img-txIN--------0-----")["](https://www.e-newspaperarchives.ch/?a=d&d=LLE18711001-01&e=-------fr-20--1--img-txIN--------0-----%22 "https://www.e-newspaperarchives.ch/?a=d&d=lle18711001-01&e=-------fr-20--1--img-txin--------0-----%22") target="_blank">le premier numéro de La Liberté</a> [la Congrégation des Sœurs de Saint-Paul a été fondée](https://150ans.lalib.ch/article/debuts-difficiles-et-conflits-sociaux/). _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
 
 {{% number number-big="70" class="eiko" %}} Le nombre de soeurs membres de l'Oeuvre de Saint-Paul en 1878 {{% /number %}}
 
