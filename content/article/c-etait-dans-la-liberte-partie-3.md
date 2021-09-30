@@ -40,7 +40,7 @@ Contrairement aux articles consacrés à des événements plus anciens, celui-ci
 
 {{% archive href="https://www.laliberte.ch/media/document/42/allemagne.pdf" target="_blank" title="Explosion d'une joie inquiète" date="11/11/1989" image="/images/capture-d-ecran-2021-09-30-a-09-37-13.png" %}}{{% /archive %}}
 
-«Polémique à Bonn sur la RDA», «Il propose une Confédération allemande»: les correspondants à Bonn Marcel Linden et Marcel Delvaux se relaient chaque semaine dans les pages de La Liberté pour faire vivre aux lecteurs tous les rebondissements de cette saga géopolitique historique. La Une du 3 octobre 1990 célèbre la réunification officielle des deux Allemagnes sous le titre «L’union dans la liesse».
+«Polémique à Bonn sur la RDA», «Il propose une Confédération allemande»: les correspondants à Bonn Marcel Linden et Marcel Delvaux se relaient chaque semaine dans les pages de _La Liberté_ pour faire vivre aux lecteurs tous les rebondissements de cette saga géopolitique historique. La Une du 3 octobre 1990 célèbre la réunification officielle des deux Allemagnes sous le titre «L’union dans la liesse».
 
 ***
 
