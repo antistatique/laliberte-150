@@ -41,6 +41,8 @@ Le 22 novembre 1963, le président américain John Fitzgerald Kennedy est assas
 
 Les deux pages publiées le même jour sur cette «mort tragique», signées essentiellement par les agences de presse, impressionnent par la richesse des témoignages: «Du sang coulait de la tête de M. Kennedy, tandis que son épouse, qui était à son côté, s’accrochait à lui en criant: «Oh! Non, ça n’est pas possible!» Ou, plus loin: «Deux prêtres ont été appelés au chevet du président, qui a reçu les derniers sacrements.» Le quotidien annonce déjà nommément l’arrestation du suspect Lee Harvey Oswald, évoquant ses liens avec l’URSS. Il décrit dans le détail cet «assassinat minutieusement préparé» et publie même une photo de la voiture présidentielle lors de l’attentat. A croire que tout avait été orchestré bien à l’avance… y compris la couverture médiatique.
 
+{{% archive href="https://www.laliberte.ch/media/document/42/kennedy.pdf" target="_blank" title="Le président Kennedy meurt victime d'un attentat" date="24/11/1963" image="/images/archive.png" %}} Description {{% /archive %}}
+
 ***
 
 #### 1969: La «conquête» de la Lune
