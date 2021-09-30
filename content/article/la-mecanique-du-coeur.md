@@ -1,9 +1,9 @@
 +++
 author = "Camille Besse"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/aurelie600.jpg"
+banner_hd = "/images/alex1700.jpg"
+banner_thumb = "/images/alex200.jpg"
+cover = "/images/alex1200.jpg"
 date = ""
 date_display = ""
 featured = false

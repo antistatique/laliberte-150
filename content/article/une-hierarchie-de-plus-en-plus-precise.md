@@ -35,5 +35,3 @@ La ligne graphique lancée le 25 mai 1992 instaure une identité propre à chac
 En septembre 1998, on demande au lecteur s’il souhaite le maintien des quatre cahiers et s’il accepte une inversion de l’ordre du Magazine et des Sports. C’est effectif dès le 25 mai 1999 avec l’apparition d’un nouveau logo. Le 30 avril 2005, le Fait du Jour apparaît en page 3. Le Magazine culture du samedi se distingue par son look propre et raffiné.
 
 _La Liberté_ telle qu’elle existe aujourd’hui paraît pour la première fois le 15 juin 2016. Le journal propose une valorisation de l’image et de l’infographie et innove avec une Der décalée. Les rubriques Evasion et Multimédia s’installent, le Forum des lecteurs passe à un rythme quotidien.
-
-{{% archive href="https://www.e-newspaperarchives.ch/lelienexact" target="_blank" title="Mon titre" date="12/02/1985" image="/images/archive.png" %}} Description {{% /archive %}}
