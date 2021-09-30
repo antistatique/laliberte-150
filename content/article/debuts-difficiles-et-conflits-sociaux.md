@@ -20,14 +20,13 @@ videos_cover = ""
 +++
 C’est dans un contexte tourmenté qu’est publié le premier numéro de _La Liberté_, le dimanche 1er octobre 1871. En Europe, mais aussi en Suisse, une guerre religieuse (_Kulturkampf_) fait rage. «La mise sous pression d’une Eglise romaine affirmant sa primauté et l’infaillibilité de son chef face au rationalisme, au libéralisme et au nationalisme nourrit une réaction d’assiégés chez ses fidèles», écrit François Python dans l’ouvrage consacré aux 150 ans de _La Liberté_. Parmi eux, l’abbé Joseph Schorderet – ordonné prêtre en 1866 – joue un rôle central dans les premiers pas de ce nouveau journal catholique à Fribourg.
 
-**980  
-Le nombre de tirages de _La Liberté_ en 1871**
+{{% number number-big="980" class="eiko" %}} Le nombre de tirages de La Liberté en 1871 {{% /number %}}
 
 Le religieux entend combattre toute tentative de fonder en Suisse une Eglise nationale soumise à l’Etat et non au pape. Ayant acquis une expérience dans la presse, Joseph Schorderet rêve de fonder un quotidien qui défendrait les catholiques. Il contribue à activer l’Association suisse de Pie IX, qui tient un congrès national à Fribourg les 29 et 30 août 1871. La décision est prise de lancer un quotidien catholique.
 
 Un mois plus tard, le 1er octobre, paraît donc le premier numéro de La Liberté. Ce nom souligne l’idée de la liberté collective des catholiques et s’oppose aux doctrines libérales. Les débuts sont modestes et fin 1871, le journal ne tire qu’à 980 exemplaires. Le 29 janvier 1872, une «Société anonyme d’imprimerie suisse catholique» voit le jour. Elle a pour but d’assurer la publication de plusieurs journaux, dont _La Liberté_.
 
-#### Conflits avec le personnel
+### Conflits avec le personnel
 
 Les années suivantes sont marquées par de fréquents conflits avec le personnel. Les ouvriers typographes souhaitent de meilleures conditions de travail. Or une grève pourrait être fatale au journal, dont la situation financière est encore fragile.
 
@@ -43,8 +42,6 @@ Les journées de travail sont longues et se font en silence, ponctuées de momen
 
 **Pour en savoir plus:**
 
-Ruffieux, Roland (dir.), _1871-1971. La Liberté en son premier siècle_, Fribourg: Saint-Paul, 1975.
-
-Barthélemy, Dominique_, Diffuser au lieu d’interdire_. _Le chanoine Schorderet (1840-1893)_, Fribourg/Paris: Saint-Paul et Fribourg: Editions universitaires, 1993.
-
-_Les conquêtes de La Liberté. Les 150 ans du quotidien fribourgeois_, collectif. Fribourg: media f SA, 2021.
+* Ruffieux, Roland (dir.), _1871-1971. La Liberté en son premier siècle_, Fribourg: Saint-Paul, 1975.
+* Barthélemy, Dominique_, Diffuser au lieu d’interdire_. _Le chanoine Schorderet (1840-1893)_, Fribourg/Paris: Saint-Paul et Fribourg: Editions universitaires, 1993.
+* _Les conquêtes de La Liberté. Les 150 ans du quotidien fribourgeois_, collectif. Fribourg: media f SA, 2021.
