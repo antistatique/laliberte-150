@@ -34,7 +34,11 @@ Contrairement aux articles consacrés à des événements plus anciens, celui-ci
 
 «Le rideau de fer s’ouvre». C’est le titre qui figure en couverture de _La Liberté_, ce vendredi 10 novembre 1989. Le papier d’agence de cette édition revient sur la décision historique prise la veille par la République démocratique d’Allemagne (RDA) d’ouvrir ses frontières vers son voisin de l’ouest, qualifiant la décision de «mesure spectaculaire». Le journaliste Charles Bays, qui rapporte dans son commentaire que cette annonce est aussi faite par la RDA pour «endiguer l’hémorragie humaine qui vide le pays de ses forces», presse la portée significative de cet acte en parlant d’«événement majeur de l’après-guerre». Correspondant depuis Bonn en République fédérale d’Allemagne (RFA), Marcel Delvaux revient sur la crise du logement induite par l’«exode des réfugiés est-allemands», mais ne donne que peu d’informations supplémentaires aux lecteurs, qui devront patienter jusqu’au lendemain pour apprendre que la démolition du mur est en cours à Berlin.
 
+![](/images/capture-d-ecran-2021-09-30-a-08-39-30.png)
+
 «Explosion d’une joie inquiète», «La peur d’une évolution incontrôlable», évocateurs du climat politique incertain, les titres de l’édition du samedi/dimanche 11-12 novembre 1989, qui fait la part belle aux événements et à leur contexte par l’entremise de papiers d’agence, rappellent qu’au-delà de la «satisfaction unanime» engendrée par les réformes annoncées en RDA, de grandes incertitudes pèsent sur le futur allemand. Ilse-Marie Cottier, épouse du conseiller d’Etat interrogée en tant que personnalité fribourgeoise sur les événements, de préciser: «Quarante ans de séparation, cela ne s’oublie pas tout de suite».
+
+{{% archive href="https://www.laliberte.ch/media/document/42/allemagne.pdf" target="_blank" title="Explosion d'une joie inquiète" date="11/11/1989" image="/images/archive.png" %}} Description {{% /archive %}}
 
 «Polémique à Bonn sur la RDA», «Il propose une Confédération allemande»: les correspondants à Bonn Marcel Linden et Marcel Delvaux se relaient chaque semaine dans les pages de La Liberté pour faire vivre aux lecteurs tous les rebondissements de cette saga géopolitique historique. La Une du 3 octobre 1990 célèbre la réunification officielle des deux Allemagnes sous le titre «L’union dans la liesse».
 
