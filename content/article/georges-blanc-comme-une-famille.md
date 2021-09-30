@@ -1,8 +1,8 @@
 +++
 author = "Patricia Morand"
-banner = "/images/blanc_600.jpg"
-banner_hd = "/images/blanc_1700.jpg"
-banner_thumb = "/images/blanc_200.jpg"
+banner = "/images/blanc_600x824.jpg"
+banner_hd = "/images/blanc_1700x2335.jpg"
+banner_thumb = "/images/blanc_200x275.jpg"
 cover = "/images/blanc_1200.jpg"
 date = ""
 date_display = ""
