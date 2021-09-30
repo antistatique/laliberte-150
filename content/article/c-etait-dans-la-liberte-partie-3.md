@@ -22,7 +22,7 @@ videos_cover = ""
 
 L’événement historique qu’a représenté l’élection d’Elisabeth Kopp, première conseillère fédérale, a fait la Une illustrée de _La Liberté_ du 3 octobre 1984. Décrite comme «sensible et volontaire» dans un bref portrait en première page, l’élue zurichoise fait également l’objet d’un éditorial intitulé «Hymne à la joie». François Gross, rédacteur en chef de l’époque, se réjouit qu’une femme siège enfin au Conseil fédéral et juge même qu’Elisabeth Kopp peut être «l’avenir de l’homme».
 
-{{% archive href="https://www.laliberte.ch/media/document/42/kopp.pdf" target="_blank" title="Sensible et volontaire" date="3/10/1984" image="/images/archive.png" %}} Description {{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/kopp.pdf" target="_blank" title="Sensible et volontaire" date="3/10/1984" image="/images/capture-d-ecran-2021-09-30-a-09-32-43.png" %}}  {{% /archive %}}
 
 A l’intérieur du cahier, l’entier de la page 3 est consacré à cette élection relatée en quatre actes: l’élection, la réaction d’Elisabeth Kopp, celle de plusieurs parlementaires et enfin la liesse dans sa commune, Zumikon. Le tout agrémenté de quatre photos de la nouvelle conseillère fédérale.
 
