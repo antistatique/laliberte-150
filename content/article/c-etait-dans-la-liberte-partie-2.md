@@ -22,7 +22,7 @@ videos_cover = ""
 
 Au début du mois de novembre 1947, des agriculteurs romands, revendiquant une hausse du prix du lait, contrôlé par la Confédération, lancent une action de grève du lait au motif que l’augmentation des tarifs proposée par le Conseil fédéral est insuffisante. _La Liberté_ couvre cette actualité plusieurs jours de suite, dans ses «Nouvelles de la dernière heure», en dernière page du journal.
 
-{{% archive href="https://www.laliberte.ch/media/document/42/grevelait.pdf" target="_blank" title="Une tentative de grève néfaste" date="3/11/1947" image="/images/archive.png" %}} Description {{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/grevelait.pdf" target="_blank" title="Une tentative de grève néfaste" date="3/11/1947" image="/images/capture-d-ecran-2021-09-30-a-09-18-19.png" %}}  {{% /archive %}}
 
 Le lundi 3 novembre, dans un article non signé sur deux colonnes pleines, le journal dit tout le mal qu’il pense de cette «tentative de grève néfaste», organisée par l’Union romande des agriculteurs, ancêtre d’Uniterre. Blâmant les grévistes, il estime que, dans un régime d’économie de guerre prolongé, une grève du lait est un acte illégal comportant des sanctions pénales.
 
