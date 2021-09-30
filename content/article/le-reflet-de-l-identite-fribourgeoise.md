@@ -7,6 +7,7 @@ cover = "/images/python_1200-1.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = ""
 images = []
 landscape_banner = false
 order = 15
@@ -22,7 +23,7 @@ Depuis 1871, quel rôle _La Liberté_ a-t-elle joué dans le canton de Fribourg?
 
 **_La Liberté_ est fondée en 1871. Quel est le contexte de l’époque?**
 
-**Francis Python**: _La Liberté_ est fondée sur [un axe de défense religieuse](https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-1/), lié à un environnement européen chamboulé avec la guerre franco-prussienne, la Commune de Paris et le concile Vatican I – définissant notamment l’infaillibilité pontificale – qui déclenche une forte opposition. Les catholiques se sentent assiégés, pas reconnus. Ils réclament une liberté. C’est un titre provocateur car le courant qui porte le journal est antilibéral. Il ne promeut pas la liberté de conscience individuelle, mais celle des catholiques, en tant que communauté, face au mouvement centralisateur qui se met en place en Suisse via la révision de la Constitution.
+**Francis Python**: _La Liberté_ est fondée sur <a href="https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-1/" target="_blank">un axe de défense religieuse</a>, lié à un environnement européen chamboulé avec la guerre franco-prussienne, la Commune de Paris et le concile Vatican I – définissant notamment l’infaillibilité pontificale – qui déclenche une forte opposition. Les catholiques se sentent assiégés, pas reconnus. Ils réclament une liberté. C’est un titre provocateur car le courant qui porte le journal est antilibéral. Il ne promeut pas la liberté de conscience individuelle, mais celle des catholiques, en tant que communauté, face au mouvement centralisateur qui se met en place en Suisse via la révision de la Constitution.
 
 **Le choix du titre est-il délibéré?**
 
@@ -50,7 +51,7 @@ Oui, on peut le dire. Par exemple, quand il y a des problèmes de corruption –
 
 **Le journal contribue-t-il à diffuser une certaine image, rurale, du canton à l’extérieur?**
 
-Oui. Il façonne une identité cantonale traditionnelle, avec sa paysannerie, ses costumes, ses coutumes et la défense de son catholicisme, ainsi que celle d’un art de vivre anti-urbain et anti-industriel. [Dans les années 1950-1970](https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-2/), la rédaction, idéologiquement conservatrice, va progressivement se retrouver en porte-à-faux avec la société fribourgeoise – et aussi avec le propriétaire du journal, l’Œuvre de Saint-Paul, ouverte au concile Vatican II. Avant même l’arrivée de François Gross, des nouveautés sont introduites, comme un supplément culturel dès 1954, une page sportive en 1958. Elle accordera aussi une plus grande place aux femmes. En 1968, enfin, le quotidien se met à la couleur.
+Oui. Il façonne une identité cantonale traditionnelle, avec sa paysannerie, ses costumes, ses coutumes et la défense de son catholicisme, ainsi que celle d’un art de vivre anti-urbain et anti-industriel. <a href="https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-2/" target="_blank">Dans les années 1950-1970</a>, la rédaction, idéologiquement conservatrice, va progressivement se retrouver en porte-à-faux avec la société fribourgeoise – et aussi avec le propriétaire du journal, l’Œuvre de Saint-Paul, ouverte au concile Vatican II. Avant même l’arrivée de François Gross, des nouveautés sont introduites, comme un supplément culturel dès 1954, une page sportive en 1958. Elle accordera aussi une plus grande place aux femmes. En 1968, enfin, le quotidien se met à la couleur.
 
 **Comment le quotidien accompagne-t-il l’évolution du canton durant la seconde moitié du XXe siècle?**
 
@@ -58,7 +59,7 @@ Il accompagne, dans les grandes lignes, le développement économique du canton 
 
 **Le journal joue-il un rôle important dans le renouvellement de l’identité fribourgeoise?**
 
-En devenant un journal d’information [dans les années 1970-1980](https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-2/), il s’érige en vraie référence pour le canton, représentant toutes ses facettes.
+En devenant un journal d’information <a href="https://150ans.lalib.ch/article/la-griffe-des-redacteurs-en-chef-partie-2/" target="_blank">dans les années 1970-1980</a>, il s’érige en vraie référence pour le canton, représentant toutes ses facettes.
 
 **De nos jours, sentez-vous _La Liberté_ en adéquation avec la population fribourgeoise?**
 
