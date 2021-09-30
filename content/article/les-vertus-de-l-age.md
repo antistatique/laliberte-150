@@ -1,12 +1,13 @@
 +++
 author = "Thierry Mauron, éditeur"
-banner = "/images/edito-600.jpg"
-banner_hd = "/images/edito_1700.jpg"
-banner_thumb = "/images/edito_200.jpg"
-cover = "/images/edito-1200-1.jpg"
+banner = "/images/mauron600.jpg"
+banner_hd = "/images/mauron1700.jpg"
+banner_thumb = "/images/mauron200.jpg"
+cover = "/images/mauron1200-1.jpg"
 date = ""
 date_display = ""
 featured = false
+footer_image = ""
 images = []
 landscape_banner = false
 order = 1
