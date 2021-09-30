@@ -74,6 +74,8 @@ Pour l’anecdote, une édition spéciale avait été préparée en 2013, prête
 
 En 1991, le cirque national plantait sa tente sur la place de l’ancien comptoir, à deux pas de _La Liberté_. Manquant d’idées, j’y fais un saut. C’est mon jour de chance! Pour marquer les 700 ans de la Confédération, la famille Knie a concocté un programme 100% helvétique. Et l’un des artistes, le dompteur Roland Duss, est Fribourgeois. Il se produit sur la piste avec une facétieuse otarie mâle de Patagonie, nommée Johnny qui, malgré ses 17 ans et ses 300 kg, est aussi souple qu’un contorsionniste. Fort bien élevé, le pinnipède a le sens des convenances. Il me gratifie spontanément d’une petite visite de courtoisie à _La Liberté_.
 
+![](/images/otarie_nr-02_19910014928-2.jpg)
+
 Nous voilà donc partis à pied et à pattes sur le boulevard de Pérolles, empruntant le monte-charge jusqu’aux longs couloirs de la rédaction. Arrivé dans la salle de la rubrique régionale, le mammifère marin salue poliment son monde, puis se lance dans un discours de circonstance «sur l’art de la pêche aux scoops et la pratique commode de la dépêche en eaux troubles».
 
 Un photomontage, pensez-vous? Un poisson d’avril? Absolument pas! Les anciens se souviennent encore de l’odeur de poisson qui a flotté au moins une semaine dans la rédaction!
