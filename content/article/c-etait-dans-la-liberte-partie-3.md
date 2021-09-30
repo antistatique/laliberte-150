@@ -38,7 +38,7 @@ Contrairement aux articles consacrés à des événements plus anciens, celui-ci
 
 «Explosion d’une joie inquiète», «La peur d’une évolution incontrôlable», évocateurs du climat politique incertain, les titres de l’édition du samedi/dimanche 11-12 novembre 1989, qui fait la part belle aux événements et à leur contexte par l’entremise de papiers d’agence, rappellent qu’au-delà de la «satisfaction unanime» engendrée par les réformes annoncées en RDA, de grandes incertitudes pèsent sur le futur allemand. Ilse-Marie Cottier, épouse du conseiller d’Etat interrogée en tant que personnalité fribourgeoise sur les événements, de préciser: «Quarante ans de séparation, cela ne s’oublie pas tout de suite».
 
-{{% archive href="https://www.laliberte.ch/media/document/42/allemagne.pdf" target="_blank" title="Explosion d'une joie inquiète" date="11/11/1989" image="/images/archive.png" %}} Description {{% /archive %}}
+{{% archive href="https://www.laliberte.ch/media/document/42/allemagne.pdf" target="_blank" title="Explosion d'une joie inquiète" date="11/11/1989" image="/images/capture-d-ecran-2021-09-30-a-09-37-13.png" %}}  {{% /archive %}}
 
 «Polémique à Bonn sur la RDA», «Il propose une Confédération allemande»: les correspondants à Bonn Marcel Linden et Marcel Delvaux se relaient chaque semaine dans les pages de La Liberté pour faire vivre aux lecteurs tous les rebondissements de cette saga géopolitique historique. La Une du 3 octobre 1990 célèbre la réunification officielle des deux Allemagnes sous le titre «L’union dans la liesse».
 
