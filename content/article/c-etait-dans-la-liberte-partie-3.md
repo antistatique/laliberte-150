@@ -48,6 +48,8 @@ Contrairement aux articles consacrés à des événements plus anciens, celui-ci
 
 Durant neuf jours, _La Liberté_ consacre sa couverture aux attentats terroristes du 11 septembre 2001, qui ont durement frappé les Américains. Le mercredi 12 septembre, sous le titre «Les Etats-Unis plongés dans la terreur», écrit dans une police inhabituelle, jaune sur fond noir, le quotidien traite pour la première fois du drame. A droite de la page, un éditorial signé par le rédacteur en chef d’alors, Roger de Diesbach, qui, à la recherche d’un coupable, dirige déjà le regard des lecteurs vers l’organisation terroriste d’Oussama Ben Laden et appelle à une réponse réfléchie: «Il faut priver les fondamentalistes islamistes de leur principale base arrière: la majorité du monde qui vit toujours dans la misère.»
 
+![](/images/capture-d-ecran-2021-09-30-a-08-41-52.png)
+
 Sur les quatre premières pages de l’édition se succèdent témoignages de rescapés, réactions suisses, compte rendu détaillé du parcours des quatre Boeings détournés, dessins de presse, infographie ou encore conséquences économiques. «Les Etats-Unis n’ont pas voulu cette guerre, car c’est bien d’une guerre qu’il s’agit, mais nous ne pouvons pas nous permettre de refuser de la mener», analyse Pascal Baeriswyl. Dans un texte introspectif, le journaliste André Klopmann prophétise: «Dans vingt ans, chacun saura ce qu’il faisait exactement le 11 septembre 2001, à l’heure où l’Amérique et le monde ont changé d’époque».
 
 _La Liberté_ couvre assidûment l’actualité et les conséquences directes des attentats jusqu’au 21 septembre, consacrant chaque jour plusieurs pages aux événements. Le 7 octobre 2001, la guerre antiterroriste menée par le président américain George W. Bush éclate.
@@ -57,6 +59,8 @@ _La Liberté_ couvre assidûment l’actualité et les conséquences directes de
 #### 2005: Pape Jean-Paul II: santo subito!
 
 Au soir du samedi 2 avril 2005, après 26ans d’un règne d’exception, le «pèlerin du monde» Jean-Paul II entamait son «dernier voyage». Le matin même, alors que des milliers de fidèles étaient réunis à son chevet sur la place Saint-Pierre, _La Liberté_ lui consacrait déjà dix pages d’hommage. «A lui est revenu de clore le siècle qui a voulu se passer de Dieu, et qui fut le siècle d’Auschwitz et du Goulag, le siècle des grandes espérances et des plus grands crimes. Jamais ce pape n’a cessé de lui tendre la main, disant sa confiance dans l’homme parce qu’il avait, lui, confiance en Dieu», écrit le journaliste Patrice Favre, rappelant le slogan rassurant du pontife polonais: «N’ayez pas peur».
+
+![](/images/capture-d-ecran-2021-09-30-a-08-43-43.png)
 
 En première page, sous l’image iconique d’un pape souffrant s’agrippant à sa croix, le réacteur en chef de _La Liberté_, Louis Ruffieux, relève ses inlassables combats, saisissants de contrastes: «Jean-Paul II, déstabilisateur du bloc communiste et du monde version Yalta, mais pourfendeur du capitalisme sauvage et premier «altermondialiste». Missionnaire du rapprochement interreligieux, mais rigide sur les positions morales les plus controversées de l’Eglise catholique. Excommunicateur de Mgr Lefebvre, mais sanctificateur du fondateur de l’Opus Dei. Censeur de la société moderne, de ses veaux d’or et de sa «culture de la mort», mais formidable catalyseur de la jeunesse, qui l’écoute à défaut de toujours l’entendre.»
 
