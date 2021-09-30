@@ -1,9 +1,9 @@
 +++
 author = "Velia Ferracini, avec Thierry Raboud"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/lecture-600.jpg"
+banner_hd = "/images/lecture-1700.jpg"
+banner_thumb = "/images/lecture-200.jpg"
+cover = "/images/lecture-1200.jpg"
 date = ""
 date_display = ""
 featured = false
