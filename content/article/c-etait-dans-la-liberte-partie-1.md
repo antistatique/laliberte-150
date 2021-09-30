@@ -18,7 +18,7 @@ videos = ""
 videos_cover = ""
 
 +++
-#### 1885: Pour Hugo, des coups de latte, un baiser
+### 1885: Pour Hugo, des coups de latte, un baiser
 
 Victor Hugo décède le 22 mai 1885, à Paris. Quatre jours plus tard, des obsèques nationales lui sont accordées. Son cercueil est exposé une nuit durant sous l’Arc de Triomphe et le 1er juin, près de deux millions de personnes l’accompagnent au Panthéon, sa dernière demeure – à titre d’exemple, l’artiste et résistante Joséphine Baker, décédée le 12 avril 1975, devrait intégrer l’illustre bâtiment le 30 novembre prochain…
 
@@ -33,7 +33,7 @@ En cette fin du XIXe siècle, la France est donc efficace et unanime derrière 
 
 ***
 
-#### 1912: Le naufrage du Titanic
+### 1912: Le naufrage du Titanic
 
 «La catastrophe s’est produite par 41°46 de latitude nord et 50°14 de longitude ouest, dimanche, à 10h25 du soir (heure de New York), environ 3h du matin (heure de l’Europe centrale).» Ainsi débute l’article de _La Liberté_ du mercredi 17 avril 1912 rapportant le naufrage du Titanic. L’accident fait l’objet de la Une du journal et est relaté dans un très long texte, découpé en plusieurs sections qui abordent des thèmes différents.
 
@@ -49,7 +49,7 @@ Un peu plus loin apparaît un descriptif très détaillé du paquebot. Cela n’
 
 ***
 
-#### 1919: Election de Musy au Conseil fédéral
+### 1919: Election de Musy au Conseil fédéral
 
 Pour l'une des toutes premières fois dans l’histoire du journal, un article rédactionnel est illustré par une photo. Dans la presse, de manière générale, c’est très rare en ce début de XXe siècle. Mais ce 11 décembre 1919, dans une seconde édition qui paraît le jour même de l’élection, _La Liberté_ marque le coup pour l’accession du premier Fribourgeois au Conseil fédéral. Un texte en page Une, sobrement intitulé «M. Musy conseiller fédéral», accompagné par un portrait du politicien, relate ces heures historiques pour le canton. S’il est précédé d’un autre sujet évoquant «la grande indécision au sujet de la Russie», l’article, qui n’est pas signé – c’est presque toujours le cas à cette époque – occupe trois pleines colonnes et déborde sur la deuxième page.
 
@@ -59,7 +59,7 @@ L’article explique ensuite que le bouleversement de la Première Guerre mondia
 
 ***
 
-#### 1940: L’invasion de la France
+### 1940: L’invasion de la France
 
 On aurait pu s’attendre à ce que l’invasion allemande des Pays-Bas, de la Belgique, du Luxembourg et de la France, le 10 mai 1940, donne lieu à un article en Une de _La Liberté_. Or ce n’est qu’en deuxième page qu’est publié un véritable dossier sur le sujet, qui débute ainsi: «Le front d’Occident, immobile depuis neuf mois, est entré en mouvement. Le duel à mort engagé entre l’Allemagne et la coalition franco-anglaise est maintenant dans la phase décisive.» Depuis septembre 1939 et l’invasion de la Pologne par la Wehrmacht, Allemands et Alliés se faisaient face sans combattre dans l’ouest de l’Europe dans ce que l’on a appelé la «drôle de guerre».
 
