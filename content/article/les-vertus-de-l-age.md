@@ -22,7 +22,7 @@ Témoin de la société fribourgeoise, _La Liberté_ a 150ans. Indéniablement, 
 
 Les contributions que vous trouverez dans ce supplément montrent à quel point l’histoire de notre journal a été riche, mais aussi controversée. Quotidien d’opinion pendant son premier siècle d’existence, il est aujourd’hui vecteur d’information. Que sera-t-il devenu dans 50ans ? Un rappel des constantes qui n’ont cessé de baliser le chemin emprunté permet de cerner les caractéristiques majeures qui ont forgé et accompagné _La Liberté_.
 
-En premier lieu son nom. A ses débuts, perçu par beaucoup comme une provocation et utilisé comme la liberté de défendre le catholicisme, il est devenu aujourd’hui un symbole d’indépendance et de liberté d’expression.
+En premier lieu son nom. À ses débuts, perçu par beaucoup comme une provocation et utilisé comme la liberté de défendre le catholicisme, il est devenu aujourd’hui un symbole d’indépendance et de liberté d’expression.
 
 Deuxièmement, en 2021 comme hier, ce sont toujours les Sœurs de Saint-Paul qui, comme propriétaires majoritaires, président à l’orientation générale du journal. A l’écoute du monde et dans le respect de valeurs humanistes, ce dernier poursuit « … sa quête de vérité et de justice », comme le dit sa charte.
 
