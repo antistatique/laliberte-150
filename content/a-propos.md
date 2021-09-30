@@ -26,7 +26,7 @@ Bd de Pérolles 42 — 1700 Fribourg
 
 Tél. 026 426 44 11 – Fax 026 426 44 00
 
-[redaction@laliberte.ch](mailto:redaction@laliberte.ch)
+<a href="mailto:redaction@laliberte.ch" target="_blank">redaction@laliberte.ch</a>
 
 * **Rédacteur en chef:** Serge Gumy (SG)
 * **Rédacteurs**: resp. François Mauron (FM) et Patricia Morand (PAM). Camille Besse (CB), Stéphanie Buchs (SB), Pascal Fleury (PFY), Elisabeth Haas (EH), Aurélie Lebreau (AL), Sevan Pearson (SP), Velia Ferracini, Thierry Raboud (TR).
@@ -45,4 +45,4 @@ Service de publicité pour le canton de Fribourg et la Broye vaudoise (ZE 15)
 
 Tél. 026 426 42 42
 
-[info@media-f.ch](mailto:info@media-f.ch)
+<a href="mailto:info@media-f.ch" target="_blank">info@media-f.ch</a>
