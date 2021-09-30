@@ -1,9 +1,9 @@
 +++
 author = "Sevan Pearson"
-banner = ""
-banner_hd = ""
-banner_thumb = ""
-cover = ""
+banner = "/images/debuts_600.jpg"
+banner_hd = "/images/debuts1700.jpg"
+banner_thumb = "/images/debuts200.jpg"
+cover = "/images/debuts_1200.jpg"
 date = ""
 date_display = ""
 featured = false
