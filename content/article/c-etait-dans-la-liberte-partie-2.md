@@ -32,7 +32,7 @@ En conclusion du texte et dans des entrefilets parus les jours suivants, le quot
 
 ***
 
-#### 1963: Kennedy, une mort bien orchestrée
+### 1963: Kennedy, une mort bien orchestrée
 
 Le 22 novembre 1963, le président américain John Fitzgerald Kennedy est assassiné à Dallas. Le lendemain, _La Liberté_ publie deux pleines pages sur cet «horrible attentat» contre «ce jeune et dynamique homme d’Etat», mais ne consacre qu’une colonne de commentaire en Une, illustrée par un petit portrait, l’essentiel de la page étant consacré à l’actualité religieuse. L’éditorialiste fait le lien avec l’assassinat un siècle plus tôt d’Abraham Lincoln et imagine «tous ceux à qui cette mort peut profiter». Rappelant que «deux grands hommes sont morts cette année, le pape Jean XXIII et John Kennedy», il se montre extrêmement lucide: «Devant l’horreur de cet acte, on voudrait espérer que toute la lumière sera faite sur ses tenants et ses aboutissants. Mais pourra-t-elle l’être? Tout attentat contre un homme d’Etat pose des énigmes qui ne sont que trop rarement élucidées.»
 
@@ -45,7 +45,7 @@ Les deux pages publiées le même jour sur cette «mort tragique», signées ess
 
 ***
 
-#### 1969: La «conquête» de la Lune
+### 1969: La «conquête» de la Lune
 
 Le lundi 21 juillet 1969, à 3h56, alors que le «vélonaute» Eddy Merckx vient de remporter pour la première fois le Tour de France, les Américains posent le pied sur la Lune. _La Liberté_, qui suit dans le détail l’aventure d’Apollo-11 depuis son lancement le 16 juillet du Centre spatial Kennedy, se montre emphatique: «L’homme, déjà maître de la Terre, a conquis une nouvelle planète. Neil Armstrong, commandant du vol Apollo, est descendu sur la Lune, en a foulé le sol et en a pris possession au nom de l’humanité. (…) La Lune désormais appartient à l’homme. Ni apprivoisée, ni domestiquée encore, elle est néanmoins conquise.» Ce discours conquérant, au ton surprenant, s’inscrit évidemment dans le contexte très tendu de la guerre froide.
 
@@ -57,7 +57,7 @@ De son côté, le rédacteur ecclésiastique Alphonse Menoud y va de son sermon 
 
 ***
 
-#### 1980: Les brise-glace du Gottéron
+### 1980: Les brise-glace du Gottéron
 
 C’est dans la patinoire archicomble des Augustins (4800 spectateurs selon les chiffres officiels), plantée alors au pied de l’ancien couvent du même nom, que le HC Fribourg-Gottéron signe ce mardi 4 mars 1980 ce qui reste son plus bel exploit. Le club, fondé en 1938 par des gamins de la Basse-Ville, obtient sa promotion en ligue nationale A en battant le CP Zurich 6 à 0.
 
