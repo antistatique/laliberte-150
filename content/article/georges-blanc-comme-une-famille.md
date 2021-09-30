@@ -36,6 +36,8 @@ J’avais écrit mon travail de mémoire sur le sport dans _La Liberté_. Ou plu
 
 En 1968, il y avait des articles consacrés au FC Fribourg, au FC Central ou à Gottéron, et quelques autres nouvelles. Mais c’est tout. On m’appelait le rédacteur polyvalent. J’ai essayé petit à petit de me débarrasser de ce qu’on me demandait de faire pour faire passer des articles sur le sport. Ferdinand Brunisholz a continué à m’encourager. Et Roger Pochon a fini par admettre l’intérêt de parler de sport. La popularité de Gottéron, du FC Fribourg ou de Jo Siffert, dont les performances étaient louées, ont bien aidé au développement de la rubrique. Jacques Deschenaux avait ainsi été notre premier correspondant sur l’auto. Il avait sa chronique: «Siffert nous dit».
 
+{{% number number-big="42" class="eiko" %}} Le nombre d'années que Georges Blanc a travaillé à la rédaction {{% /number %}}
+
 **Et la rédaction sportive a grandi…**
 
 J’étais seul et j’essayais de tout faire. Même le samedi. L’aide est venue quand le service de l’agence s’est étoffé. Il fallait couper le télex et préparer les titres pour envoyer à la composition. J’étais débordé. On m’a mis à disposition Marcel Gobet pour m’aider le dimanche. Et, de mon côté, pour avoir toujours plus d’informations, j’ai contacté des gens en leur disant de ne pas hésiter à nous envoyer des textes. Le rubrique n’a cessé de croître. C’était une volonté affirmée de ne pas se cantonner aux sports rois. Nous étions ouverts à tout. Nous voulions atteindre autant de personnes que possible sur Fribourg à travers le sport. Le changement a été bien accueilli. Tout s’est fait naturellement. Une chose a joué un rôle important selon moi: la rubrique a été comme une deuxième famille.
