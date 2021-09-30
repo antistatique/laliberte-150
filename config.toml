@@ -1,16 +1,16 @@
 baseURL = "https://150ans.lalib.ch"
 languageCode = "fr-ch"
-title = "La Liberté a 150 ans"
+title = "150 ans de Liberté"
 theme = "laliberte"
 
 [params]
-  timelineTitle = "La timeline de la Liberté"
+  timelineTitle = "150 ans de Liberté"
   circulateNavigationTitle = 'Poursuivre la lecture'
   aboutPageTitle = 'À propos'
   aboutPageSlug = 'a-propos'
   videoActionLabel = 'Voir le reportage'
   footerRight = "Tous droits réservés"
-  Plausible = '150.lalib.ch'
+  Plausible = '150ans.lalib.ch'
 
 [markup]
   [markup.goldmark]
