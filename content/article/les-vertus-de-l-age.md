@@ -18,9 +18,9 @@ videos = ""
 videos_cover = ""
 
 +++
-Témoin de la société fribourgeoise, _La Liberté_ a 150 ans. Indéniablement, il y a quelque chose de fascinant et d’intrigant à observer cette existence d’une durée supérieure à celle d’une vie humaine. Y a-t-il une continuité, un ﬁl rouge à tirer de 1871 à aujourd’hui ? Quel enseignement retenir ?
+Témoin de la société fribourgeoise, _La Liberté_ a 150ans. Indéniablement, il y a quelque chose de fascinant et d’intrigant à observer cette existence d’une durée supérieure à celle d’une vie humaine. Y a-t-il une continuité, un ﬁl rouge à tirer de 1871 à aujourd’hui ? Quel enseignement retenir ?
 
-Les contributions que vous trouverez dans ce supplément montrent à quel point l’histoire de notre journal a été riche, mais aussi controversée. Quotidien d’opinion pendant son premier siècle d’existence, il est aujourd’hui vecteur d’information. Que sera-t-il devenu dans 50 ans ? Un rappel des constantes qui n’ont cessé de baliser le chemin emprunté permet de cerner les caractéristiques majeures qui ont forgé et accompagné _La Liberté_.
+Les contributions que vous trouverez dans ce supplément montrent à quel point l’histoire de notre journal a été riche, mais aussi controversée. Quotidien d’opinion pendant son premier siècle d’existence, il est aujourd’hui vecteur d’information. Que sera-t-il devenu dans 50ans ? Un rappel des constantes qui n’ont cessé de baliser le chemin emprunté permet de cerner les caractéristiques majeures qui ont forgé et accompagné _La Liberté_.
 
 En premier lieu son nom. A ses débuts, perçu par beaucoup comme une provocation et utilisé comme la liberté de défendre le catholicisme, il est devenu aujourd’hui un symbole d’indépendance et de liberté d’expression.
 
