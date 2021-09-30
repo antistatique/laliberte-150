@@ -24,7 +24,7 @@ Plus, toujours plus. Les informations ont suivi l’accélération du temps. Auc
 
 On ne sait plus vraiment qui a eu l’idée en premier. Les inventeurs numériques, las de voir leurs ambitions se heurter aux barrières technologiques, ont compris que l’ADN seul serait capable de stocker ce trop-plein d’informations. Il fallait remplacer les composants informatiques par des tissus, par des organes de synthèse. Il fallait un «cœur» nouveau. Ainsi, le noyau des ordinateurs s’est peu à peu mis à pulser, jusqu’à devenir cet hybride technologique, machine vivante capable de trier, regrouper, inventorier, résumer, sans jamais être dépassée.
 
-#### Excursion sur la lune
+### Excursion sur la lune
 
 Le «cœur» médiatique a gagné en autonomie, les synthèses de l’actualité s’affinant et se modelant à mesure que les usages des abonnés s’affirmaient. Nourri par sa collecte quotidienne de traces numériques, le «cœur» distribue en retour indices boursiers à l’un, tendances sociétales, découvertes scientifiques, confessions intimes à l’autre. Du global au local, les abonnés sont informés sur les soubresauts politiques de leur localité sans perdre de vue les tressautements planétaires. Le «cœur», c’est l’actualité qui vibre.
 
@@ -42,7 +42,7 @@ Des minutes deviennent des heures, au rythme de la machine. Des ombres se relaie
 
 Dans le bureau des rédacteurs en chef, chacun responsable de l’un des quatre rendez-vous quotidiens, se trouve la tête, le cerveau. C’est ici que l’on tient le cap, décide d’investiguer, de consacrer du temps, de donner des ressources, d’y aller ou non… Les vaisseaux sanguins du «cœur», véhicules en charge de transformer la fange numérique en terreau fertile d’où émergeront des informations de qualité, sont soigneusement entretenus par des médecins développeurs. Informaticiens et généticiens, seuls capables de garder la machine en vie, au service des idées.
 
-#### Ce battement régulier
+### Ce battement régulier
 
 Car le véritable enjeu du média se situe là. Entre les interstices de ce monde numérisé qui tourbillonne, face à la pression financière d’abonnés et de publicitaires qui s’automatisent et se robotisent chaque jour davantage, sous les cours en dents de scie de leurs cryptomonnaies: un combat permanent pour la liberté d’informer.
 
