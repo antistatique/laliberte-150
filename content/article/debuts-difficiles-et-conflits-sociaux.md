@@ -46,6 +46,6 @@ Les journées de travail sont longues et se font en silence, ponctuées de momen
 
 **Pour en savoir plus:**
 
-* Ruffieux, Roland (dir.), _1871-1971. La Liberté en son premier siècle_, Fribourg: Saint-Paul, 1975.
-* Barthélemy, Dominique_, Diffuser au lieu d’interdire_. _Le chanoine Schorderet (1840-1893)_, Fribourg/Paris: Saint-Paul et Fribourg: Editions universitaires, 1993.
-* _Les conquêtes de La Liberté. Les 150 ans du quotidien fribourgeois_, collectif. Fribourg: media f SA, 2021.
+* Ruffieux, Roland (dir.), _1871-1971._ [_La Liberté en son premier siècle_](https://bcufr.swisscovery.slsp.ch/discovery/fulldisplay?docid=cdi_persee_primary_oai_persee_article_assr_0335_5985_1978_num_46_2_2168_t1_0300_0000_1&context=PC&vid=41SLSP_BCUFR:DFR&lang=fr&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=41SLSP_BCUFR_MyInst_and_CI&query=any,contains,La%20Libert%C3%A9%20en%20son%20premier%20si%C3%A8cle), Fribourg: Saint-Paul, 1975.
+* Barthélemy, Dominique_, [Diffuser au lieu d’interdire_. _Le chanoine Schorderet_](https://bcufr.swisscovery.slsp.ch/discovery/fulldisplay?docid=alma991016354429705509&context=L&vid=41SLSP_BCUFR:DFR&lang=fr&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=41SLSP_BCUFR_MyInst_and_CI&query=any,contains,Diffuser%20au%20lieu%20d%E2%80%99interdire_.%20Le%20chanoine%20Schorderet&offset=0) _(1840-1893)_, Fribourg/Paris: Saint-Paul et Fribourg: Editions universitaires, 1993.
+* [_Les conquêtes de La Liberté. Les 150 ans du quotidien fribourgeois_](https://www.laliberte.ch/page/-les-conquetes-de-la-liberte-le-livre-des-150-ans-de-la-liberte-610089), collectif. Fribourg: media f SA, 2021.
