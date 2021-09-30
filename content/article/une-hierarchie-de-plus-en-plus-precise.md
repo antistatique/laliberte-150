@@ -1,7 +1,7 @@
 +++
 author = "Patricia Morand"
 banner = "/images/lib-600.jpg"
-banner_hd = "/images/lib-1700.jpg"
+banner_hd = "/images/lalib.jpg"
 banner_thumb = "/images/lib-200.jpg"
 cover = "/images/1200-1.jpg"
 date = ""
