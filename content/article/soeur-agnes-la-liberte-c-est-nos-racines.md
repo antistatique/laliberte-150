@@ -22,7 +22,7 @@ La Congrégation des Sœurs de Saint-Paul est toujours propriétaire majoritaire
 
 **Quel est votre lien avec _La Liberté_?**
 
-**Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que [la Congrégation des Sœurs de Saint-Paul a été fondée](https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/). _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
+**Sœur Agnès**: Un lien très fort nous unit puisque c’est pour faire vivre ce journal que [la Congrégation des Sœurs de Saint-Paul a été fondée](https://150ans.lalib.ch/article/l-oeuvre-d-une-vie/ "la Congrégation des Sœurs de Saint-Paul a été fondée"). _La Liberté_, c’est nos racines. Une sœur de Madagascar a dit une fois: «_La Liberté_, c’est un peu comme ma grand-mère!»
 
 {{% number number-big="70" class="eiko" %}} Le nombre de soeurs membres de l'Oeuvre de Saint-Paul en 1878 {{% /number %}}
 
