@@ -2,7 +2,7 @@
 author = "Thierry Mauron, éditeur"
 banner = "/images/whatsapp-image-2021-10-01-at-10-27-18.jpeg"
 banner_hd = "/images/whatsapp-image-2021-10-01-at-10-27-18.jpeg"
-banner_thumb = "/images/mauron200.jpg"
+banner_thumb = "/images/whatsapp-image-2021-10-01-at-10-27-18.jpeg"
 cover = "/images/mauron1200-1.jpg"
 date = ""
 date_display = ""
